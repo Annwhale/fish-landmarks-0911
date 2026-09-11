@@ -1,3 +1,5 @@
+![Welcome, and thank you for reviewing my data and code. Have a wonderful day!](assets/welcome-0911.gif)
+
 # Fish landmarks · 0911
 
 鱼类外部形态点数据的清理、坐标转换、验证与绘图代码。对应资源包含2,564张去重图像、11个点位角色和2,555张技术验证图像。本仓库不是数据存储库，也不代表论文已被接收。
