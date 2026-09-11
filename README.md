@@ -36,7 +36,6 @@ python run-0911.py train-yolo --help
 python run-0911.py train-heatmap --help
 python run-0911.py evaluate-yolo --help
 python run-0911.py evaluate-heatmap --help
-python run-0911.py build-tex manuscript.md manuscript.tex --standalone
 ```
 
 ## Contents
@@ -46,8 +45,6 @@ python run-0911.py build-tex manuscript.md manuscript.tex --standalone
 - `figures` — plotting code and source tables
 - `config` — experiment settings
 - `docs` — [landmark definitions](docs/landmark-definitions-0911.csv) and data dictionary
-
-小提示：先接入数据，再运行验证；部分代码保留简短中文注释。
 
 ## License
 

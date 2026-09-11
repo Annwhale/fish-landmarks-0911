@@ -16,7 +16,6 @@ COMMANDS = {
     'evaluate-locateanything': 'scripts/evaluate_locateanything_zero_shot.py',
     'build-benchmark': 'scripts/build_benchmark.py',
     'export-benchmark': 'scripts/export_benchmark_package.py',
-    'build-tex': 'scripts/build_submission_tex.py',
 }
 
 

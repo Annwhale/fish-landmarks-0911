@@ -25,3 +25,9 @@ figures/generated/
 *.aux
 *.log
 *.out
+*.tex
+*.bib
+*.docx
+*.pdf
+manuscript/
+submission/
