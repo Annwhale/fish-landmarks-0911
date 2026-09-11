@@ -19,10 +19,10 @@ See `environment.yml` for the experiment environment.
 
 ## Quick start
 
-Place the dataset in `data/benchmark_v1`, or link an extracted submission package:
+Extract the data archive and link it:
 
 ```bash
-python run-0911.py attach /path/to/FishLandmarks_Scientific_Data_Submission_v1
+python run-0911.py attach /path/to/FishLandmarks-Data-0911
 python run-0911.py quickstart data/benchmark_v1
 python -m pytest -q
 ```

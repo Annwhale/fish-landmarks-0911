@@ -21,9 +21,16 @@ COMMANDS = {
 
 def attach(package):
     package = package.resolve(strict=True)
-    validation = package / 'CODE_AND_REPRODUCIBILITY/validation'
-    dataset = package / 'DATA_REPOSITORY_UPLOAD/benchmark_v1'
-    links = {'data/benchmark_v1': dataset, 'data/derived': dataset / 'tables',
+    if (package / 'benchmark_v1').is_dir():
+        dataset = package / 'benchmark_v1'
+        validation = package / 'validation'
+        links = {'data/benchmark_v1': dataset, 'data/derived': dataset / 'tables',
+                 'qa': validation, 'models/evaluation': validation / 'model-evaluation',
+                 'data/experiments/protocols': validation / 'protocols'}
+    else:
+        validation = package / 'CODE_AND_REPRODUCIBILITY/validation'
+        dataset = package / 'DATA_REPOSITORY_UPLOAD/benchmark_v1'
+        links = {'data/benchmark_v1': dataset, 'data/derived': dataset / 'tables',
              'qa': validation / 'qa', 'evidence': validation / 'evidence',
              'models/evaluation': validation / 'model_evaluation',
              'data/experiments/protocols': validation / 'protocols'}
@@ -48,7 +55,7 @@ def main():
     args = parser.parse_args()
     if args.command == 'attach':
         if len(args.arguments) != 1:
-            parser.error('attach requires the extracted submission package directory')
+            parser.error('attach requires the extracted data directory')
         attach(Path(args.arguments[0]))
         return
     env = os.environ.copy()
