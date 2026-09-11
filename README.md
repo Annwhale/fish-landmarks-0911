@@ -8,7 +8,7 @@ Tools for fish landmark curation, evaluation and visualization.
 
 ## Data
 
-[Download data](https://github.com/Annwhale/fish-landmarks-0911/releases/download/v1.0.1/FishLandmarks-Data-0911.zip) · CC BY 4.0
+[Zenodo](https://doi.org/10.5281/zenodo.22704999) · [Single ZIP](https://github.com/Annwhale/fish-landmarks-0911/releases/download/v1.0.1/FishLandmarks-Data-0911.zip) · CC BY 4.0
 
 ## Setup
 
