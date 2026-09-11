@@ -1,0 +1,15 @@
+source_groups,taxon_candidate,origin_label,unique_images
+鲫鱼,Carassius auratus,farmed,239
+刀鲚,Coilia nasus,farmed,100
+野生刀鲚,Coilia nasus,wild,1182
+草鱼,Ctenopharyngodon idella,farmed,105
+翘嘴鲌,Culter alburnus,farmed,102
+野生翘嘴鲌,Culter alburnus,wild,114
+鲢鱼,Hypophthalmichthys molitrix,farmed,103
+野生鲢鱼,Hypophthalmichthys molitrix,wild,123
+野生鳙鱼|鳙鱼,Hypophthalmichthys nobilis,conflicted,9
+鳙鱼,Hypophthalmichthys nobilis,farmed,100
+野生鳙鱼,Hypophthalmichthys nobilis,wild,64
+团头鲂,Megalobrama amblycephala,farmed,101
+青鱼,Mylopharyngodon piceus,farmed,119
+鳜鱼,Siniperca chuatsi,farmed,103

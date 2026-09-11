@@ -1,0 +1,21 @@
+model,metric,mean_relative_error
+YOLO pose,axial span 1–6,0.013802653127218342
+YOLO pose,dorsal base 3–4,0.18368384121767328
+YOLO pose,caudal depth 5–7,0.10800594544388784
+YOLO pose,head chord 2–10,0.05499104784893348
+YOLO pose,ventral base 8–9,0.0699813207052867
+ResNet-34,axial span 1–6,0.004605119046674894
+ResNet-34,dorsal base 3–4,0.11054723433299621
+ResNet-34,caudal depth 5–7,0.06841456572650643
+ResNet-34,head chord 2–10,0.03749153815826723
+ResNet-34,ventral base 8–9,0.04729909981705245
+DINOv2,axial span 1–6,0.006387640288164216
+DINOv2,dorsal base 3–4,0.12116075984987615
+DINOv2,caudal depth 5–7,0.08109725043088901
+DINOv2,head chord 2–10,0.04196152422896247
+DINOv2,ventral base 8–9,0.05540902745124357
+DINOv2 + geometry,axial span 1–6,0.006393908036640482
+DINOv2 + geometry,dorsal base 3–4,0.12048553186061427
+DINOv2 + geometry,caudal depth 5–7,0.0809396372986007
+DINOv2 + geometry,head chord 2–10,0.04206130448698402
+DINOv2 + geometry,ventral base 8–9,0.05548326328302264

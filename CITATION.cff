@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this software release and its exact commit."
+title: "Fish landmark curation and validation code"
+type: software
+version: "1.0.1"
+date-released: 2026-09-11
+repository-code: "https://github.com/Annwhale/fish-landmarks-0911"
+license: MIT
+authors:
+  - family-names: An
+    given-names: Fenghe
+  - family-names: Ma
+    given-names: Xiaofei
+  - family-names: Shen
+    given-names: Nannan
+  - family-names: He
+    given-names: Yanhui
+  - family-names: Hao
+    given-names: Yixin
+  - family-names: Jiang
+    given-names: Lijun
+  - family-names: Duan
+    given-names: Jinrong

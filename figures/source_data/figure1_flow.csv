@@ -1,0 +1,6 @@
+stage,count,excluded_from_previous
+source records,2699,0
+role-aware eligible records,2691,8
+unique benchmark images,2564,127
+technical validation eligible,2555,9
+review holdout,9,0

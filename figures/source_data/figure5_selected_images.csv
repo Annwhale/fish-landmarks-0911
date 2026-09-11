@@ -1,0 +1,14 @@
+benchmark_id,source_groups,taxon_candidate,origin_label,source_display,mean_nme,selection_rule
+flm_0e098517d3d52af2,鲫鱼,Carassius auratus,farmed,F C. auratus,0.25504349981229135,nearest to within-source-group median zero-shot mean NME
+flm_0422a435815eb5e6,刀鲚,Coilia nasus,farmed,F C. nasus,0.13364810394472268,nearest to within-source-group median zero-shot mean NME
+flm_009d9c9b591675ff,野生刀鲚,Coilia nasus,wild,W C. nasus,0.13839689145918643,nearest to within-source-group median zero-shot mean NME
+flm_08e88d7fcddf132c,草鱼,Ctenopharyngodon idella,farmed,F C. idella,0.19293483083488555,nearest to within-source-group median zero-shot mean NME
+flm_201b0bd822c94f2e,翘嘴鲌,Culter alburnus,farmed,F C. alburnus,0.1813722132455813,nearest to within-source-group median zero-shot mean NME
+flm_18dacfef55c76c0a,野生翘嘴鲌,Culter alburnus,wild,W C. alburnus,0.08496656914807904,nearest to within-source-group median zero-shot mean NME
+flm_48d2a5f372cacf2d,鲢鱼,Hypophthalmichthys molitrix,farmed,F H. molitrix,0.16404214446333684,nearest to within-source-group median zero-shot mean NME
+flm_0210f67ad1497c7f,野生鲢鱼,Hypophthalmichthys molitrix,wild,W H. molitrix,0.08244914084359525,nearest to within-source-group median zero-shot mean NME
+flm_48e75883e252235a,鳙鱼,Hypophthalmichthys nobilis,farmed,F H. nobilis,0.08448214390026955,nearest to within-source-group median zero-shot mean NME
+flm_48932895dae318c7,野生鳙鱼,Hypophthalmichthys nobilis,wild,W H. nobilis,0.1856337685886228,nearest to within-source-group median zero-shot mean NME
+flm_3e0cf2609cc04388,团头鲂,Megalobrama amblycephala,farmed,F M. amblycephala,0.26041678504225246,nearest to within-source-group median zero-shot mean NME
+flm_13f8b3acf69cdef7,青鱼,Mylopharyngodon piceus,farmed,F M. piceus,0.11825607725522543,nearest to within-source-group median zero-shot mean NME
+flm_0e1305877a8ced63,鳜鱼,Siniperca chuatsi,farmed,F S. chuatsi,0.2245295547629025,nearest to within-source-group median zero-shot mean NME

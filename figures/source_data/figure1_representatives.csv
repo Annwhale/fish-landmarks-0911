@@ -1,0 +1,14 @@
+source_groups,source_display,taxon_candidate,taxon_display,benchmark_id,body_axis_length_px,source_group_median_body_axis_length_px,source_record_count,origin_label,width,height,representative_original_image
+鲫鱼,F C. auratus,Carassius auratus,C. auratus,flm_9eda61687e011cb8,517.7200015452368,517.7200015452368,1,farmed,600,800,鲫鱼/jiyu (95)_0.jpg
+刀鲚,F C. nasus,Coilia nasus,C. nasus,flm_65c6b3e376bcb6e9,641.3119365800078,641.2218741502497,1,farmed,800,600,刀鲚/718_0.jpg
+野生刀鲚,W C. nasus,Coilia nasus,C. nasus,flm_64d2a020950239ca,663.0754104926527,663.0754104926527,1,wild,600,800,野生刀鲚/IMG_6330_0.jpg
+草鱼,F C. idella,Ctenopharyngodon idella,C. idella,flm_ed199c433c971508,652.0007668707146,652.0467758398738,1,farmed,600,800,草鱼/caoyu (72)_0.jpg
+翘嘴鲌,F C. alburnus,Culter alburnus,C. alburnus,flm_023f1449aca44f09,642.000778815727,641.5881309077531,1,farmed,600,800,翘嘴鲌/yangzhibo (36)_0.jpg
+野生翘嘴鲌,W C. alburnus,Culter alburnus,C. alburnus,flm_1742dbd519aecad3,587.1669268615186,588.3397186654871,1,wild,800,600,野生翘嘴鲌/yeshengbo     (29)_0.jpg
+鲢鱼,F H. molitrix,Hypophthalmichthys molitrix,H. molitrix,flm_7291efdeae7e541b,663.0369522130724,663.0369522130724,1,farmed,600,800,鲢鱼/yangzhilian (87)_0.jpg
+野生鲢鱼,W H. molitrix,Hypophthalmichthys molitrix,H. molitrix,flm_9aefe4dbc6819c9b,615.939120368239,615.5024852506886,1,wild,600,800,野生鲢鱼/yeshenglian  (64)_0.jpg
+鳙鱼,F H. nobilis,Hypophthalmichthys nobilis,H. nobilis,flm_0d56890d27761b6c,654.1719957320093,654.1719957320093,1,farmed,600,800,鳙鱼/yangzhiyong (76)_0.jpg
+野生鳙鱼,W H. nobilis,Hypophthalmichthys nobilis,H. nobilis,flm_aadf871d579b0af6,663.8207589402429,663.5325289113191,1,wild,800,600,野生鳙鱼/yeshengyong (70)_0.jpg
+团头鲂,F M. amblycephala,Megalobrama amblycephala,M. amblycephala,flm_1a1a2a6b51c3c29d,565.0318575089373,565.5176955334059,1,farmed,800,450,团头鲂/tuantoufang (42)_0.jpg
+青鱼,F M. piceus,Mylopharyngodon piceus,M. piceus,flm_e04c0eb29d5e04ec,654.404309276765,654.404309276765,2,farmed,800,600,青鱼/qingyu (111)_0.jpg
+鳜鱼,F S. chuatsi,Siniperca chuatsi,S. chuatsi,flm_899a884b44beb8aa,586.7418512429465,586.9233059558865,1,farmed,600,800,鳜鱼/guiyu (53)_0.jpg

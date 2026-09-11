@@ -1,0 +1,9 @@
+benchmark_id,taxon_candidate,taxon_display,origin_label,body_axis_length_px,taxon_origin_median_body_axis_length_px,selection_rule
+flm_65c6b3e376bcb6e9,Coilia nasus,C. nasus,farmed,641.3119365800078,641.3119365800078,nearest to taxon-origin median body-axis length
+flm_64d2a020950239ca,Coilia nasus,C. nasus,wild,663.0754104926527,663.0754104926527,nearest to taxon-origin median body-axis length
+flm_023f1449aca44f09,Culter alburnus,C. alburnus,farmed,642.000778815727,642.000778815727,nearest to taxon-origin median body-axis length
+flm_1742dbd519aecad3,Culter alburnus,C. alburnus,wild,587.1669268615186,587.1669268615186,nearest to taxon-origin median body-axis length
+flm_7291efdeae7e541b,Hypophthalmichthys molitrix,H. molitrix,farmed,663.0369522130724,663.5188526123468,nearest to taxon-origin median body-axis length
+flm_9aefe4dbc6819c9b,Hypophthalmichthys molitrix,H. molitrix,wild,615.939120368239,615.5024852506886,nearest to taxon-origin median body-axis length
+flm_0d56890d27761b6c,Hypophthalmichthys nobilis,H. nobilis,farmed,654.1719957320093,654.1719957320093,nearest to taxon-origin median body-axis length
+flm_86a8b3cd55d568d8,Hypophthalmichthys nobilis,H. nobilis,wild,663.2442988823952,663.2442988823952,nearest to taxon-origin median body-axis length

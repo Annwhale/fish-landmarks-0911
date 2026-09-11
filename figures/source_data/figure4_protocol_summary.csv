@@ -1,0 +1,3 @@
+protocol,representation,cohort_comparison,images,detected,nme_normalizer,nme_n,nme_mean,nme_ci95_low,nme_ci95_high,pck_mean_all_images,pck_ci95_low,pck_ci95_high
+standard original-image,original source image,separate protocols; not a paired comparison,382,382,role-1-to-role-6 working axial span,382,0.017383060107697464,0.016303782632987186,0.01840990170232114,0.9581151832460733,0.9464540694907188,0.9681104236078057
+cross-origin original-image,original source image,separate protocols; not a paired comparison,1477,1475,role-1-to-role-6 working axial span,1475,0.06784447626858484,0.06356836267990665,0.07205883031123245,0.6002954391579984,0.5837369975995569,0.616976980365606

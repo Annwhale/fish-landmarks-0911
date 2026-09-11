@@ -1,0 +1,13 @@
+layer,table_name,row_count,logical_key
+Source audit,metadata,2699,sample_uid
+Source audit,keypoints_raw_long,34944,sample_uid
+Source audit,scale_endpoints_long,5272,sample_uid
+Curation and QC,anomalies,272,sample_uid
+Curation and QC,exact_duplicates,231,content_id / sample_uid
+Curation and QC,duplicate_annotation_agreement,104,content_id
+Curation and QC,near_duplicate_review_candidates,27,benchmark_id pair
+Curation and QC,benchmark_exclusions,22,sample_uid
+Benchmark core,benchmark_samples,2564,benchmark_id
+Benchmark core,crop_transforms,2564,benchmark_id
+Coordinate records,benchmark_keypoints_original,28204,benchmark_id / role
+Coordinate records,benchmark_keypoints_crops_448,28204,benchmark_id / role

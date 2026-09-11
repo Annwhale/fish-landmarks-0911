@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fishlandmark-scidata"
+version = "1.0.1"
+description = "Curation and validation tools for a fish anatomical landmark Data Descriptor"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy",
+  "pandas",
+  "Pillow",
+  "PyYAML",
+  "pyarrow",
+  "opencv-python",
+  "matplotlib",
+  "python-docx",
+  "torch",
+  "torchvision",
+  "ultralytics",
+]
+
+[project.optional-dependencies]
+locateanything = [
+  "transformers==4.57.3",
+  "peft==0.20.0",
+  "accelerate==1.14.0",
+  "decord==0.6.0",
+  "lmdb==1.7.5",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "src"]
+testpaths = ["tests"]

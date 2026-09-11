@@ -1,0 +1,115 @@
+dataset:
+  source_root: /path/to/source_fish_landmark_data
+  source_database: /path/to/fish_keypoints.db
+  output_root: ./data/derived
+  benchmark_package: ./data/benchmark_v1
+  qa_root: ./qa
+  expected_source_records: 2699
+  expected_anatomical_points: 11
+  scale_endpoint_role_ids: [1, 2]
+  dominant_legacy_csv_scale_ids: [12, 13]
+  digest_algorithm: blake2b-64
+  benchmark_seed: 20260825
+  standard_split_ratios:
+    train: 0.70
+    validation: 0.15
+    test: 0.15
+
+semantic_status:
+  fish_landmarks_1_to_11: role-aware source order recovered from the fish YOLO row
+  canonical_names: provisional pending source-team point-by-point confirmation
+  scale_side_convention: provisional pending source-team acquisition confirmation
+  physical_scale: unavailable until represented length and unit are confirmed
+
+source_groups:
+  刀鲚:
+    code: farmed_coilia_nasus
+    taxon: Coilia nasus
+    origin_label: farmed
+  野生刀鲚:
+    code: wild_coilia_nasus
+    taxon: Coilia nasus
+    origin_label: wild
+  团头鲂:
+    code: farmed_megalobrama_amblycephala
+    taxon: Megalobrama amblycephala
+    origin_label: farmed
+  翘嘴鲌:
+    code: farmed_culter_alburnus
+    taxon: Culter alburnus
+    origin_label: farmed
+  野生翘嘴鲌:
+    code: wild_culter_alburnus
+    taxon: Culter alburnus
+    origin_label: wild
+  草鱼:
+    code: farmed_ctenopharyngodon_idella
+    taxon: Ctenopharyngodon idella
+    origin_label: farmed
+  青鱼:
+    code: farmed_mylopharyngodon_piceus
+    taxon: Mylopharyngodon piceus
+    origin_label: farmed
+  鲢鱼:
+    code: farmed_hypophthalmichthys_molitrix
+    taxon: Hypophthalmichthys molitrix
+    origin_label: farmed
+  野生鲢鱼:
+    code: wild_hypophthalmichthys_molitrix
+    taxon: Hypophthalmichthys molitrix
+    origin_label: wild
+  鲫鱼:
+    code: farmed_carassius_auratus
+    taxon: Carassius auratus
+    origin_label: farmed
+  鳙鱼:
+    code: farmed_hypophthalmichthys_nobilis
+    taxon: Hypophthalmichthys nobilis
+    origin_label: farmed
+  野生鳙鱼:
+    code: wild_hypophthalmichthys_nobilis
+    taxon: Hypophthalmichthys nobilis
+    origin_label: wild
+  鳜鱼:
+    code: farmed_siniperca_chuatsi
+    taxon: Siniperca chuatsi
+    origin_label: farmed
+
+canonical_landmarks:
+  1: snout_tip
+  2: nape_dorsal_outline
+  3: dorsal_fin_origin
+  4: dorsal_fin_insertion
+  5: upper_caudal_fin_insertion
+  6: posterior_caudal_peduncle_midpoint
+  7: lower_caudal_fin_insertion
+  8: anal_fin_origin
+  9: pelvic_fin_origin
+  10: pectoral_fin_base
+  11: posterior_opercular_margin
+
+mapping:
+  direct:
+    1: 1
+    2: 2
+    3: 3
+    4: 4
+    5: 5
+    6: 6
+    7: 7
+    8: 8
+    9: 9
+    10: 10
+    11: 11
+  reverse:
+    1: 1
+    2: 10
+    3: 9
+    4: 8
+    5: 7
+    6: 6
+    7: 5
+    8: 4
+    9: 3
+    10: 2
+    11: 11

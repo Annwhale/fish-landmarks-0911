@@ -1,0 +1,2 @@
+model,images,queries,outputs,output_rate,complete_11_point_images,complete_11_point_image_rate,nme_detected_mean,nme_detected_ci95_low,nme_detected_ci95_high,pck_0_05_all_queries,pck_0_05_ci95_low,pck_0_05_ci95_high,normalizer,selection
+nvidia/LocateAnything-3B,39,429,428,0.9976689976689976,38,0.9743589743589743,0.16537244461079298,0.14195701100597108,0.18907671178628646,0.3006993006993007,0.2634032634032634,0.34038461538461506,role-1-to-role-6 working axial span,three lexicographically first locked-test images per non-conflicted source group

@@ -1,0 +1,9 @@
+figure,panel,slot,benchmark_id,source_groups,taxon_candidate,origin_label,selection_rule
+Figure 5,c,display-01,flm_0210f67ad1497c7f,野生鲢鱼,Hypophthalmichthys molitrix,wild,prespecified six-taxon display spanning the observed zero-shot error range
+Figure 5,c,display-02,flm_48e75883e252235a,鳙鱼,Hypophthalmichthys nobilis,farmed,prespecified six-taxon display spanning the observed zero-shot error range
+Figure 5,c,display-03,flm_009d9c9b591675ff,野生刀鲚,Coilia nasus,wild,prespecified six-taxon display spanning the observed zero-shot error range
+Figure 5,c,display-04,flm_08e88d7fcddf132c,草鱼,Ctenopharyngodon idella,farmed,prespecified six-taxon display spanning the observed zero-shot error range
+Figure 5,c,display-05,flm_0e1305877a8ced63,鳜鱼,Siniperca chuatsi,farmed,prespecified six-taxon display spanning the observed zero-shot error range
+Figure 5,c,display-06,flm_3e0cf2609cc04388,团头鲂,Megalobrama amblycephala,farmed,prespecified six-taxon display spanning the observed zero-shot error range
+Figure 1,a,workflow-specimen,flm_80c1a7fc667f677e,野生刀鲚,Coilia nasus,wild,taxon median body-axis length
+Figure 1,d,coordinate-trace,flm_235487eee2a44a06,鳜鱼,Siniperca chuatsi,farmed,taxon median body-axis length

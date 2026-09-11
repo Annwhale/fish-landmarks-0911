@@ -1,0 +1,1145 @@
+benchmark_id,canonical_id,point_label,consensus_record_count,x_mad_px,y_mad_px,radial_mad_px
+flm_01976f1ffbd183c7,1,snout tip,2,1.0,0.0,1.0
+flm_01976f1ffbd183c7,2,nape dorsal outline,2,2.0,0.0,2.0
+flm_01976f1ffbd183c7,3,dorsal fin origin,2,3.5,1.0,3.640054944640259
+flm_01976f1ffbd183c7,4,dorsal fin insertion,2,3.0,0.5,3.0413812651491097
+flm_01976f1ffbd183c7,5,upper caudal fin insertion,2,9.0,0.0,9.0
+flm_01976f1ffbd183c7,6,caudal peduncle midpoint,2,5.0,1.5,5.220153254455275
+flm_01976f1ffbd183c7,7,lower caudal fin insertion,2,1.0,0.0,1.0
+flm_01976f1ffbd183c7,8,anal fin origin,2,5.5,0.5,5.522680508593631
+flm_01976f1ffbd183c7,9,pelvic fin origin,2,8.0,0.5,8.0156097709407
+flm_01976f1ffbd183c7,10,pectoral fin base,2,2.0,0.5,2.0615528128088303
+flm_01976f1ffbd183c7,11,posterior opercular margin,2,1.0,1.5,1.8027756377319946
+flm_07d3a56e878c642a,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_07d3a56e878c642a,2,nape dorsal outline,2,2.0,1.0,2.23606797749979
+flm_07d3a56e878c642a,3,dorsal fin origin,2,3.0,0.5,3.0413812651491097
+flm_07d3a56e878c642a,4,dorsal fin insertion,2,4.0,2.0,4.47213595499958
+flm_07d3a56e878c642a,5,upper caudal fin insertion,2,7.0,0.0,7.0
+flm_07d3a56e878c642a,6,caudal peduncle midpoint,2,1.5,1.5,2.1213203435596424
+flm_07d3a56e878c642a,7,lower caudal fin insertion,2,1.0,0.5,1.118033988749895
+flm_07d3a56e878c642a,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_07d3a56e878c642a,9,pelvic fin origin,2,0.5,1.0,1.118033988749895
+flm_07d3a56e878c642a,10,pectoral fin base,2,1.0,1.5,1.8027756377319946
+flm_07d3a56e878c642a,11,posterior opercular margin,2,1.0,4.0,4.123105625617661
+flm_08f5dc29efbacad9,1,snout tip,2,1.5,0.0,1.5
+flm_08f5dc29efbacad9,2,nape dorsal outline,2,9.0,1.5,9.12414379544733
+flm_08f5dc29efbacad9,3,dorsal fin origin,2,1.5,1.0,1.8027756377319946
+flm_08f5dc29efbacad9,4,dorsal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_08f5dc29efbacad9,5,upper caudal fin insertion,2,8.0,0.5,8.0156097709407
+flm_08f5dc29efbacad9,6,caudal peduncle midpoint,2,2.0,1.5,2.5
+flm_08f5dc29efbacad9,7,lower caudal fin insertion,2,4.5,0.5,4.527692569068709
+flm_08f5dc29efbacad9,8,anal fin origin,2,1.5,1.0,1.8027756377319946
+flm_08f5dc29efbacad9,9,pelvic fin origin,2,0.0,0.0,0.0
+flm_08f5dc29efbacad9,10,pectoral fin base,2,4.0,1.5,4.272001872658765
+flm_08f5dc29efbacad9,11,posterior opercular margin,2,1.0,2.0,2.23606797749979
+flm_094420ea910542f3,1,snout tip,2,0.0,0.5,0.5
+flm_094420ea910542f3,2,nape dorsal outline,2,2.0,1.0,2.23606797749979
+flm_094420ea910542f3,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_094420ea910542f3,4,dorsal fin insertion,2,0.5,1.0,1.118033988749895
+flm_094420ea910542f3,5,upper caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_094420ea910542f3,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_094420ea910542f3,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_094420ea910542f3,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_094420ea910542f3,9,pelvic fin origin,2,3.0,1.0,3.1622776601683795
+flm_094420ea910542f3,10,pectoral fin base,2,1.5,0.5,1.5811388300841898
+flm_094420ea910542f3,11,posterior opercular margin,2,1.5,0.5,1.5811388300841898
+flm_0d31b9954964f680,1,snout tip,2,0.0,1.0,1.0
+flm_0d31b9954964f680,2,nape dorsal outline,2,0.5,1.5,1.5811388300841898
+flm_0d31b9954964f680,3,dorsal fin origin,2,0.5,3.5,3.5355339059327378
+flm_0d31b9954964f680,4,dorsal fin insertion,2,0.5,0.0,0.5
+flm_0d31b9954964f680,5,upper caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_0d31b9954964f680,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_0d31b9954964f680,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_0d31b9954964f680,8,anal fin origin,2,0.5,1.5,1.5811388300841898
+flm_0d31b9954964f680,9,pelvic fin origin,2,0.0,0.0,0.0
+flm_0d31b9954964f680,10,pectoral fin base,2,0.0,1.0,1.0
+flm_0d31b9954964f680,11,posterior opercular margin,2,0.0,2.0,2.0
+flm_0d7da0569c6b4b05,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_0d7da0569c6b4b05,2,nape dorsal outline,2,0.0,3.0,3.0
+flm_0d7da0569c6b4b05,3,dorsal fin origin,2,1.0,2.0,2.23606797749979
+flm_0d7da0569c6b4b05,4,dorsal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_0d7da0569c6b4b05,5,upper caudal fin insertion,2,0.0,2.5,2.5
+flm_0d7da0569c6b4b05,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_0d7da0569c6b4b05,7,lower caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_0d7da0569c6b4b05,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_0d7da0569c6b4b05,9,pelvic fin origin,2,1.5,0.0,1.5
+flm_0d7da0569c6b4b05,10,pectoral fin base,2,1.5,3.5,3.8078865529319543
+flm_0d7da0569c6b4b05,11,posterior opercular margin,2,1.5,1.5,2.1213203435596424
+flm_0f9b221d79ad6026,1,snout tip,2,1.0,1.0,1.4142135623730951
+flm_0f9b221d79ad6026,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_0f9b221d79ad6026,3,dorsal fin origin,2,1.5,1.0,1.8027756377319946
+flm_0f9b221d79ad6026,4,dorsal fin insertion,2,4.5,1.0,4.6097722286464435
+flm_0f9b221d79ad6026,5,upper caudal fin insertion,2,4.0,1.0,4.123105625617661
+flm_0f9b221d79ad6026,6,caudal peduncle midpoint,2,1.5,1.0,1.8027756377319946
+flm_0f9b221d79ad6026,7,lower caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_0f9b221d79ad6026,8,anal fin origin,2,0.0,0.0,0.0
+flm_0f9b221d79ad6026,9,pelvic fin origin,2,1.0,0.0,1.0
+flm_0f9b221d79ad6026,10,pectoral fin base,2,0.0,0.5,0.5
+flm_0f9b221d79ad6026,11,posterior opercular margin,2,0.5,1.0,1.118033988749895
+flm_1651f51640d3843f,1,snout tip,2,1.0,2.0,2.23606797749979
+flm_1651f51640d3843f,2,nape dorsal outline,2,3.5,0.5,3.5355339059327378
+flm_1651f51640d3843f,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_1651f51640d3843f,4,dorsal fin insertion,2,2.0,1.0,2.23606797749979
+flm_1651f51640d3843f,5,upper caudal fin insertion,2,5.5,2.0,5.852349955359813
+flm_1651f51640d3843f,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_1651f51640d3843f,7,lower caudal fin insertion,2,3.0,0.5,3.0413812651491097
+flm_1651f51640d3843f,8,anal fin origin,2,39.0,8.5,39.91553582253406
+flm_1651f51640d3843f,9,pelvic fin origin,2,49.5,1.5,49.52272205765753
+flm_1651f51640d3843f,10,pectoral fin base,2,1.5,0.5,1.5811388300841898
+flm_1651f51640d3843f,11,posterior opercular margin,2,0.5,0.0,0.5
+flm_17dd905b5eb30122,1,snout tip,2,0.0,0.0,0.0
+flm_17dd905b5eb30122,2,nape dorsal outline,2,1.0,1.0,1.4142135623730951
+flm_17dd905b5eb30122,3,dorsal fin origin,2,1.5,1.0,1.8027756377319946
+flm_17dd905b5eb30122,4,dorsal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_17dd905b5eb30122,5,upper caudal fin insertion,2,8.0,1.5,8.139410298049853
+flm_17dd905b5eb30122,6,caudal peduncle midpoint,2,1.0,0.0,1.0
+flm_17dd905b5eb30122,7,lower caudal fin insertion,2,4.0,0.5,4.031128874149275
+flm_17dd905b5eb30122,8,anal fin origin,2,3.0,0.5,3.0413812651491097
+flm_17dd905b5eb30122,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_17dd905b5eb30122,10,pectoral fin base,2,4.0,0.5,4.031128874149275
+flm_17dd905b5eb30122,11,posterior opercular margin,2,0.0,0.5,0.5
+flm_19603ea5e6c7f328,1,snout tip,2,1.0,0.0,1.0
+flm_19603ea5e6c7f328,2,nape dorsal outline,2,1.0,1.0,1.4142135623730951
+flm_19603ea5e6c7f328,3,dorsal fin origin,2,1.5,0.5,1.5811388300841898
+flm_19603ea5e6c7f328,4,dorsal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_19603ea5e6c7f328,5,upper caudal fin insertion,2,7.0,0.5,7.0178344238090995
+flm_19603ea5e6c7f328,6,caudal peduncle midpoint,2,2.5,0.0,2.5
+flm_19603ea5e6c7f328,7,lower caudal fin insertion,2,7.0,0.5,7.0178344238090995
+flm_19603ea5e6c7f328,8,anal fin origin,2,2.0,0.5,2.0615528128088303
+flm_19603ea5e6c7f328,9,pelvic fin origin,2,1.5,0.5,1.5811388300841898
+flm_19603ea5e6c7f328,10,pectoral fin base,2,2.5,0.5,2.5495097567963922
+flm_19603ea5e6c7f328,11,posterior opercular margin,2,0.5,1.0,1.118033988749895
+flm_200ebcf2f6959d9f,1,snout tip,2,0.0,0.5,0.5
+flm_200ebcf2f6959d9f,2,nape dorsal outline,2,2.5,0.5,2.5495097567963922
+flm_200ebcf2f6959d9f,3,dorsal fin origin,2,0.5,0.0,0.5
+flm_200ebcf2f6959d9f,4,dorsal fin insertion,2,0.5,2.5,2.5495097567963922
+flm_200ebcf2f6959d9f,5,upper caudal fin insertion,2,0.5,4.0,4.031128874149275
+flm_200ebcf2f6959d9f,6,caudal peduncle midpoint,2,0.0,0.0,0.0
+flm_200ebcf2f6959d9f,7,lower caudal fin insertion,2,1.0,3.5,3.640054944640259
+flm_200ebcf2f6959d9f,8,anal fin origin,2,0.5,2.0,2.0615528128088303
+flm_200ebcf2f6959d9f,9,pelvic fin origin,2,0.5,0.0,0.5
+flm_200ebcf2f6959d9f,10,pectoral fin base,2,0.0,1.0,1.0
+flm_200ebcf2f6959d9f,11,posterior opercular margin,2,2.5,1.0,2.692582403567252
+flm_21046a35b5b34ff8,1,snout tip,2,1.0,1.5,1.8027756377319946
+flm_21046a35b5b34ff8,2,nape dorsal outline,2,0.5,0.0,0.5
+flm_21046a35b5b34ff8,3,dorsal fin origin,2,1.5,0.5,1.5811388300841898
+flm_21046a35b5b34ff8,4,dorsal fin insertion,2,3.5,0.5,3.5355339059327378
+flm_21046a35b5b34ff8,5,upper caudal fin insertion,2,4.5,0.0,4.5
+flm_21046a35b5b34ff8,6,caudal peduncle midpoint,2,2.0,0.0,2.0
+flm_21046a35b5b34ff8,7,lower caudal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_21046a35b5b34ff8,8,anal fin origin,2,1.5,2.0,2.5
+flm_21046a35b5b34ff8,9,pelvic fin origin,2,1.5,1.0,1.8027756377319946
+flm_21046a35b5b34ff8,10,pectoral fin base,2,0.0,0.5,0.5
+flm_21046a35b5b34ff8,11,posterior opercular margin,2,1.5,1.0,1.8027756377319946
+flm_25c7bd9bb75f0b92,1,snout tip,2,1.5,1.5,2.1213203435596424
+flm_25c7bd9bb75f0b92,2,nape dorsal outline,2,0.0,1.0,1.0
+flm_25c7bd9bb75f0b92,3,dorsal fin origin,2,0.5,1.0,1.118033988749895
+flm_25c7bd9bb75f0b92,4,dorsal fin insertion,2,2.0,0.5,2.0615528128088303
+flm_25c7bd9bb75f0b92,5,upper caudal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_25c7bd9bb75f0b92,6,caudal peduncle midpoint,2,2.5,1.5,2.9154759474226504
+flm_25c7bd9bb75f0b92,7,lower caudal fin insertion,2,2.0,1.0,2.23606797749979
+flm_25c7bd9bb75f0b92,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_25c7bd9bb75f0b92,9,pelvic fin origin,2,2.0,0.0,2.0
+flm_25c7bd9bb75f0b92,10,pectoral fin base,2,3.0,2.5,3.905124837953327
+flm_25c7bd9bb75f0b92,11,posterior opercular margin,2,2.5,1.0,2.692582403567252
+flm_25d5cf70b1095d72,1,snout tip,2,2.0,1.5,2.5
+flm_25d5cf70b1095d72,2,nape dorsal outline,2,3.5,1.0,3.640054944640259
+flm_25d5cf70b1095d72,3,dorsal fin origin,2,1.5,1.0,1.8027756377319946
+flm_25d5cf70b1095d72,4,dorsal fin insertion,2,0.0,0.5,0.5
+flm_25d5cf70b1095d72,5,upper caudal fin insertion,2,1.0,0.5,1.118033988749895
+flm_25d5cf70b1095d72,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_25d5cf70b1095d72,7,lower caudal fin insertion,2,1.0,0.5,1.118033988749895
+flm_25d5cf70b1095d72,8,anal fin origin,2,1.0,0.0,1.0
+flm_25d5cf70b1095d72,9,pelvic fin origin,2,1.5,0.0,1.5
+flm_25d5cf70b1095d72,10,pectoral fin base,2,1.5,1.0,1.8027756377319946
+flm_25d5cf70b1095d72,11,posterior opercular margin,2,0.5,1.5,1.5811388300841898
+flm_29b32cfc49c85d84,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_29b32cfc49c85d84,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_29b32cfc49c85d84,3,dorsal fin origin,2,0.5,0.5,0.7071067811865476
+flm_29b32cfc49c85d84,4,dorsal fin insertion,2,9.0,0.0,9.0
+flm_29b32cfc49c85d84,5,upper caudal fin insertion,2,4.0,0.5,4.031128874149275
+flm_29b32cfc49c85d84,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_29b32cfc49c85d84,7,lower caudal fin insertion,2,3.0,1.5,3.3541019662496847
+flm_29b32cfc49c85d84,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_29b32cfc49c85d84,9,pelvic fin origin,2,8.0,1.0,8.06225774829855
+flm_29b32cfc49c85d84,10,pectoral fin base,2,1.0,0.5,1.118033988749895
+flm_29b32cfc49c85d84,11,posterior opercular margin,2,0.5,0.0,0.5
+flm_2a31749a1dbe4331,1,snout tip,2,0.0,1.0,1.0
+flm_2a31749a1dbe4331,2,nape dorsal outline,2,0.0,0.5,0.5
+flm_2a31749a1dbe4331,3,dorsal fin origin,2,1.0,0.0,1.0
+flm_2a31749a1dbe4331,4,dorsal fin insertion,2,1.0,0.5,1.118033988749895
+flm_2a31749a1dbe4331,5,upper caudal fin insertion,2,8.0,0.5,8.0156097709407
+flm_2a31749a1dbe4331,6,caudal peduncle midpoint,2,12.0,0.0,12.0
+flm_2a31749a1dbe4331,7,lower caudal fin insertion,2,11.5,2.5,11.76860229593982
+flm_2a31749a1dbe4331,8,anal fin origin,2,2.5,1.0,2.692582403567252
+flm_2a31749a1dbe4331,9,pelvic fin origin,2,0.5,1.0,1.118033988749895
+flm_2a31749a1dbe4331,10,pectoral fin base,2,0.0,0.5,0.5
+flm_2a31749a1dbe4331,11,posterior opercular margin,2,1.0,0.5,1.118033988749895
+flm_2a65cb9f5abdbb58,1,snout tip,2,0.0,0.0,0.0
+flm_2a65cb9f5abdbb58,2,nape dorsal outline,2,1.0,5.5,5.5901699437494745
+flm_2a65cb9f5abdbb58,3,dorsal fin origin,2,3.0,1.0,3.1622776601683795
+flm_2a65cb9f5abdbb58,4,dorsal fin insertion,2,0.0,2.0,2.0
+flm_2a65cb9f5abdbb58,5,upper caudal fin insertion,2,2.0,9.5,9.7082439194738
+flm_2a65cb9f5abdbb58,6,caudal peduncle midpoint,2,1.5,3.0,3.3541019662496847
+flm_2a65cb9f5abdbb58,7,lower caudal fin insertion,2,3.0,4.5,5.408326913195984
+flm_2a65cb9f5abdbb58,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_2a65cb9f5abdbb58,9,pelvic fin origin,2,0.0,6.0,6.0
+flm_2a65cb9f5abdbb58,10,pectoral fin base,2,3.5,4.0,5.315072906367325
+flm_2a65cb9f5abdbb58,11,posterior opercular margin,2,2.0,0.5,2.0615528128088303
+flm_2c41ad9782492cfa,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_2c41ad9782492cfa,2,nape dorsal outline,2,2.0,1.0,2.23606797749979
+flm_2c41ad9782492cfa,3,dorsal fin origin,2,2.0,1.0,2.23606797749979
+flm_2c41ad9782492cfa,4,dorsal fin insertion,2,4.0,1.0,4.123105625617661
+flm_2c41ad9782492cfa,5,upper caudal fin insertion,2,8.5,0.5,8.514693182963201
+flm_2c41ad9782492cfa,6,caudal peduncle midpoint,2,3.0,0.5,3.0413812651491097
+flm_2c41ad9782492cfa,7,lower caudal fin insertion,2,6.5,2.0,6.800735254367722
+flm_2c41ad9782492cfa,8,anal fin origin,2,7.5,1.5,7.648529270389178
+flm_2c41ad9782492cfa,9,pelvic fin origin,2,0.0,0.5,0.5
+flm_2c41ad9782492cfa,10,pectoral fin base,2,5.5,1.5,5.70087712549569
+flm_2c41ad9782492cfa,11,posterior opercular margin,2,1.0,0.5,1.118033988749895
+flm_2fbd331df61c8a55,1,snout tip,2,1.0,1.5,1.8027756377319946
+flm_2fbd331df61c8a55,2,nape dorsal outline,2,0.0,0.0,0.0
+flm_2fbd331df61c8a55,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_2fbd331df61c8a55,4,dorsal fin insertion,2,3.5,0.5,3.5355339059327378
+flm_2fbd331df61c8a55,5,upper caudal fin insertion,2,6.0,1.5,6.18465843842649
+flm_2fbd331df61c8a55,6,caudal peduncle midpoint,2,4.0,0.5,4.031128874149275
+flm_2fbd331df61c8a55,7,lower caudal fin insertion,2,7.0,1.0,7.0710678118654755
+flm_2fbd331df61c8a55,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_2fbd331df61c8a55,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_2fbd331df61c8a55,10,pectoral fin base,2,2.5,2.5,3.5355339059327378
+flm_2fbd331df61c8a55,11,posterior opercular margin,2,1.0,2.0,2.23606797749979
+flm_308961028cf363fa,1,snout tip,2,0.5,2.5,2.5495097567963922
+flm_308961028cf363fa,2,nape dorsal outline,2,1.0,0.5,1.118033988749895
+flm_308961028cf363fa,3,dorsal fin origin,2,2.0,0.0,2.0
+flm_308961028cf363fa,4,dorsal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_308961028cf363fa,5,upper caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_308961028cf363fa,6,caudal peduncle midpoint,2,0.0,2.0,2.0
+flm_308961028cf363fa,7,lower caudal fin insertion,2,1.5,2.5,2.9154759474226504
+flm_308961028cf363fa,8,anal fin origin,2,2.5,1.0,2.692582403567252
+flm_308961028cf363fa,9,pelvic fin origin,2,0.5,0.0,0.5
+flm_308961028cf363fa,10,pectoral fin base,2,0.5,0.0,0.5
+flm_308961028cf363fa,11,posterior opercular margin,2,1.0,0.0,1.0
+flm_31a44b6b2de8d507,1,snout tip,2,0.5,0.0,0.5
+flm_31a44b6b2de8d507,2,nape dorsal outline,2,0.0,0.0,0.0
+flm_31a44b6b2de8d507,3,dorsal fin origin,2,2.5,1.5,2.9154759474226504
+flm_31a44b6b2de8d507,4,dorsal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_31a44b6b2de8d507,5,upper caudal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_31a44b6b2de8d507,6,caudal peduncle midpoint,2,3.0,1.0,3.1622776601683795
+flm_31a44b6b2de8d507,7,lower caudal fin insertion,2,1.5,1.5,2.1213203435596424
+flm_31a44b6b2de8d507,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_31a44b6b2de8d507,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_31a44b6b2de8d507,10,pectoral fin base,2,1.5,0.5,1.5811388300841898
+flm_31a44b6b2de8d507,11,posterior opercular margin,2,0.5,1.0,1.118033988749895
+flm_32d7f253189cadcb,1,snout tip,2,1.5,1.5,2.1213203435596424
+flm_32d7f253189cadcb,2,nape dorsal outline,2,0.0,1.0,1.0
+flm_32d7f253189cadcb,3,dorsal fin origin,2,0.5,0.5,0.7071067811865476
+flm_32d7f253189cadcb,4,dorsal fin insertion,2,0.0,6.0,6.0
+flm_32d7f253189cadcb,5,upper caudal fin insertion,2,0.5,2.0,2.0615528128088303
+flm_32d7f253189cadcb,6,caudal peduncle midpoint,2,3.0,0.5,3.0413812651491097
+flm_32d7f253189cadcb,7,lower caudal fin insertion,2,0.0,1.0,1.0
+flm_32d7f253189cadcb,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_32d7f253189cadcb,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_32d7f253189cadcb,10,pectoral fin base,2,0.5,3.0,3.0413812651491097
+flm_32d7f253189cadcb,11,posterior opercular margin,2,0.5,2.0,2.0615528128088303
+flm_352ae485b3f9d381,1,snout tip,2,0.0,1.0,1.0
+flm_352ae485b3f9d381,2,nape dorsal outline,2,0.0,2.5,2.5
+flm_352ae485b3f9d381,3,dorsal fin origin,2,1.0,3.0,3.1622776601683795
+flm_352ae485b3f9d381,4,dorsal fin insertion,2,0.5,5.0,5.024937810560445
+flm_352ae485b3f9d381,5,upper caudal fin insertion,2,1.0,1.5,1.8027756377319946
+flm_352ae485b3f9d381,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_352ae485b3f9d381,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_352ae485b3f9d381,8,anal fin origin,2,2.0,3.5,4.031128874149275
+flm_352ae485b3f9d381,9,pelvic fin origin,2,0.0,3.5,3.5
+flm_352ae485b3f9d381,10,pectoral fin base,2,0.5,1.5,1.5811388300841898
+flm_352ae485b3f9d381,11,posterior opercular margin,2,0.0,0.0,0.0
+flm_3c3aed05278440ca,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_3c3aed05278440ca,2,nape dorsal outline,2,5.5,0.0,5.5
+flm_3c3aed05278440ca,3,dorsal fin origin,2,1.5,0.5,1.5811388300841898
+flm_3c3aed05278440ca,4,dorsal fin insertion,2,4.0,0.5,4.031128874149275
+flm_3c3aed05278440ca,5,upper caudal fin insertion,2,11.5,0.5,11.510864433221338
+flm_3c3aed05278440ca,6,caudal peduncle midpoint,2,2.0,1.0,2.23606797749979
+flm_3c3aed05278440ca,7,lower caudal fin insertion,2,5.5,0.5,5.522680508593631
+flm_3c3aed05278440ca,8,anal fin origin,2,4.0,2.0,4.47213595499958
+flm_3c3aed05278440ca,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_3c3aed05278440ca,10,pectoral fin base,2,2.5,2.5,3.5355339059327378
+flm_3c3aed05278440ca,11,posterior opercular margin,2,0.0,1.5,1.5
+flm_3e74a0ca7d76b9f5,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_3e74a0ca7d76b9f5,2,nape dorsal outline,2,7.0,1.5,7.158910531638177
+flm_3e74a0ca7d76b9f5,3,dorsal fin origin,2,1.0,0.0,1.0
+flm_3e74a0ca7d76b9f5,4,dorsal fin insertion,2,5.5,1.0,5.5901699437494745
+flm_3e74a0ca7d76b9f5,5,upper caudal fin insertion,2,0.0,0.5,0.5
+flm_3e74a0ca7d76b9f5,6,caudal peduncle midpoint,2,4.0,0.5,4.031128874149275
+flm_3e74a0ca7d76b9f5,7,lower caudal fin insertion,2,0.5,0.0,0.5
+flm_3e74a0ca7d76b9f5,8,anal fin origin,2,1.5,0.5,1.5811388300841898
+flm_3e74a0ca7d76b9f5,9,pelvic fin origin,2,2.0,1.0,2.23606797749979
+flm_3e74a0ca7d76b9f5,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_3e74a0ca7d76b9f5,11,posterior opercular margin,2,1.0,3.5,3.640054944640259
+flm_445fe8b9978f4773,1,snout tip,2,0.0,1.0,1.0
+flm_445fe8b9978f4773,2,nape dorsal outline,2,8.5,0.5,8.514693182963201
+flm_445fe8b9978f4773,3,dorsal fin origin,2,2.0,0.5,2.0615528128088303
+flm_445fe8b9978f4773,4,dorsal fin insertion,2,4.0,1.5,4.272001872658765
+flm_445fe8b9978f4773,5,upper caudal fin insertion,2,9.0,1.5,9.12414379544733
+flm_445fe8b9978f4773,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_445fe8b9978f4773,7,lower caudal fin insertion,2,3.0,1.0,3.1622776601683795
+flm_445fe8b9978f4773,8,anal fin origin,2,3.0,0.5,3.0413812651491097
+flm_445fe8b9978f4773,9,pelvic fin origin,2,2.5,0.5,2.5495097567963922
+flm_445fe8b9978f4773,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_445fe8b9978f4773,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_44ecc00d45cb1d79,1,snout tip,2,0.0,1.0,1.0
+flm_44ecc00d45cb1d79,2,nape dorsal outline,2,0.0,8.5,8.5
+flm_44ecc00d45cb1d79,3,dorsal fin origin,2,3.0,1.0,3.1622776601683795
+flm_44ecc00d45cb1d79,4,dorsal fin insertion,2,1.0,1.5,1.8027756377319946
+flm_44ecc00d45cb1d79,5,upper caudal fin insertion,2,0.5,3.0,3.0413812651491097
+flm_44ecc00d45cb1d79,6,caudal peduncle midpoint,2,2.0,0.5,2.0615528128088303
+flm_44ecc00d45cb1d79,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_44ecc00d45cb1d79,8,anal fin origin,2,0.5,2.0,2.0615528128088303
+flm_44ecc00d45cb1d79,9,pelvic fin origin,2,1.0,0.0,1.0
+flm_44ecc00d45cb1d79,10,pectoral fin base,2,0.5,3.5,3.5355339059327378
+flm_44ecc00d45cb1d79,11,posterior opercular margin,2,1.0,11.5,11.543396380615196
+flm_46dcd41b56387de0,1,snout tip,2,0.5,0.0,0.5
+flm_46dcd41b56387de0,2,nape dorsal outline,2,0.0,0.0,0.0
+flm_46dcd41b56387de0,3,dorsal fin origin,2,0.5,0.0,0.5
+flm_46dcd41b56387de0,4,dorsal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_46dcd41b56387de0,5,upper caudal fin insertion,2,4.5,2.0,4.924428900898052
+flm_46dcd41b56387de0,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_46dcd41b56387de0,7,lower caudal fin insertion,2,0.0,0.5,0.5
+flm_46dcd41b56387de0,8,anal fin origin,2,1.5,0.5,1.5811388300841898
+flm_46dcd41b56387de0,9,pelvic fin origin,2,7.5,1.0,7.566372975210778
+flm_46dcd41b56387de0,10,pectoral fin base,2,0.0,1.0,1.0
+flm_46dcd41b56387de0,11,posterior opercular margin,2,1.0,1.0,1.4142135623730951
+flm_4b6f7fd6f28fc60f,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_4b6f7fd6f28fc60f,2,nape dorsal outline,2,0.5,0.0,0.5
+flm_4b6f7fd6f28fc60f,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_4b6f7fd6f28fc60f,4,dorsal fin insertion,2,0.5,2.5,2.5495097567963922
+flm_4b6f7fd6f28fc60f,5,upper caudal fin insertion,2,1.0,2.0,2.23606797749979
+flm_4b6f7fd6f28fc60f,6,caudal peduncle midpoint,2,0.5,1.5,1.5811388300841898
+flm_4b6f7fd6f28fc60f,7,lower caudal fin insertion,2,2.0,2.0,2.8284271247461903
+flm_4b6f7fd6f28fc60f,8,anal fin origin,2,0.0,3.5,3.5
+flm_4b6f7fd6f28fc60f,9,pelvic fin origin,2,2.0,2.0,2.8284271247461903
+flm_4b6f7fd6f28fc60f,10,pectoral fin base,2,1.0,1.5,1.8027756377319946
+flm_4b6f7fd6f28fc60f,11,posterior opercular margin,2,5.0,2.0,5.385164807134504
+flm_5134e7ff50b48b32,1,snout tip,2,2.5,0.0,2.5
+flm_5134e7ff50b48b32,2,nape dorsal outline,2,1.5,0.5,1.5811388300841898
+flm_5134e7ff50b48b32,3,dorsal fin origin,2,0.5,4.5,4.527692569068709
+flm_5134e7ff50b48b32,4,dorsal fin insertion,2,2.0,8.5,8.73212459828649
+flm_5134e7ff50b48b32,5,upper caudal fin insertion,2,1.0,2.5,2.692582403567252
+flm_5134e7ff50b48b32,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_5134e7ff50b48b32,7,lower caudal fin insertion,2,0.0,2.0,2.0
+flm_5134e7ff50b48b32,8,anal fin origin,2,2.0,1.5,2.5
+flm_5134e7ff50b48b32,9,pelvic fin origin,2,0.5,1.5,1.5811388300841898
+flm_5134e7ff50b48b32,10,pectoral fin base,2,0.0,3.0,3.0
+flm_5134e7ff50b48b32,11,posterior opercular margin,2,6.0,0.0,6.0
+flm_5278744c61a991d4,1,snout tip,2,0.0,1.0,1.0
+flm_5278744c61a991d4,2,nape dorsal outline,2,2.5,0.5,2.5495097567963922
+flm_5278744c61a991d4,3,dorsal fin origin,2,0.0,1.0,1.0
+flm_5278744c61a991d4,4,dorsal fin insertion,2,5.5,0.5,5.522680508593631
+flm_5278744c61a991d4,5,upper caudal fin insertion,2,8.5,0.5,8.514693182963201
+flm_5278744c61a991d4,6,caudal peduncle midpoint,2,2.0,0.0,2.0
+flm_5278744c61a991d4,7,lower caudal fin insertion,2,3.0,1.0,3.1622776601683795
+flm_5278744c61a991d4,8,anal fin origin,2,82.5,14.5,83.7645509747411
+flm_5278744c61a991d4,9,pelvic fin origin,2,63.0,3.5,63.09714732061981
+flm_5278744c61a991d4,10,pectoral fin base,2,2.0,0.5,2.0615528128088303
+flm_5278744c61a991d4,11,posterior opercular margin,2,0.5,1.5,1.5811388300841898
+flm_541ddb15ae9522d0,1,snout tip,2,0.0,1.0,1.0
+flm_541ddb15ae9522d0,2,nape dorsal outline,2,0.5,0.0,0.5
+flm_541ddb15ae9522d0,3,dorsal fin origin,2,2.5,1.5,2.9154759474226504
+flm_541ddb15ae9522d0,4,dorsal fin insertion,2,2.5,0.0,2.5
+flm_541ddb15ae9522d0,5,upper caudal fin insertion,2,2.5,1.5,2.9154759474226504
+flm_541ddb15ae9522d0,6,caudal peduncle midpoint,2,1.5,0.5,1.5811388300841898
+flm_541ddb15ae9522d0,7,lower caudal fin insertion,2,0.5,0.0,0.5
+flm_541ddb15ae9522d0,8,anal fin origin,2,1.5,0.0,1.5
+flm_541ddb15ae9522d0,9,pelvic fin origin,2,0.0,0.5,0.5
+flm_541ddb15ae9522d0,10,pectoral fin base,2,0.5,1.0,1.118033988749895
+flm_541ddb15ae9522d0,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_559d0d4f374f2c8f,1,snout tip,2,1.5,1.0,1.8027756377319946
+flm_559d0d4f374f2c8f,2,nape dorsal outline,2,2.0,0.5,2.0615528128088303
+flm_559d0d4f374f2c8f,3,dorsal fin origin,2,0.5,0.5,0.7071067811865476
+flm_559d0d4f374f2c8f,4,dorsal fin insertion,2,2.0,0.5,2.0615528128088303
+flm_559d0d4f374f2c8f,5,upper caudal fin insertion,2,5.0,0.5,5.024937810560445
+flm_559d0d4f374f2c8f,6,caudal peduncle midpoint,2,2.5,1.0,2.692582403567252
+flm_559d0d4f374f2c8f,7,lower caudal fin insertion,2,3.5,1.5,3.8078865529319543
+flm_559d0d4f374f2c8f,8,anal fin origin,2,1.0,1.5,1.8027756377319946
+flm_559d0d4f374f2c8f,9,pelvic fin origin,2,1.0,0.0,1.0
+flm_559d0d4f374f2c8f,10,pectoral fin base,2,0.0,1.5,1.5
+flm_559d0d4f374f2c8f,11,posterior opercular margin,2,0.5,2.5,2.5495097567963922
+flm_593d16e04c8c9879,1,snout tip,2,0.0,0.0,0.0
+flm_593d16e04c8c9879,2,nape dorsal outline,2,2.5,6.5,6.96419413859206
+flm_593d16e04c8c9879,3,dorsal fin origin,2,5.5,3.5,6.519202405202649
+flm_593d16e04c8c9879,4,dorsal fin insertion,2,0.5,1.0,1.118033988749895
+flm_593d16e04c8c9879,5,upper caudal fin insertion,2,0.0,1.0,1.0
+flm_593d16e04c8c9879,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_593d16e04c8c9879,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_593d16e04c8c9879,8,anal fin origin,2,0.5,1.5,1.5811388300841898
+flm_593d16e04c8c9879,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_593d16e04c8c9879,10,pectoral fin base,2,0.0,0.5,0.5
+flm_593d16e04c8c9879,11,posterior opercular margin,2,2.5,0.5,2.5495097567963922
+flm_5a529d2a972add58,1,snout tip,2,0.5,0.0,0.5
+flm_5a529d2a972add58,2,nape dorsal outline,2,0.5,1.0,1.118033988749895
+flm_5a529d2a972add58,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_5a529d2a972add58,4,dorsal fin insertion,2,3.5,0.5,3.5355339059327378
+flm_5a529d2a972add58,5,upper caudal fin insertion,2,7.0,0.5,7.0178344238090995
+flm_5a529d2a972add58,6,caudal peduncle midpoint,2,1.0,2.0,2.23606797749979
+flm_5a529d2a972add58,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_5a529d2a972add58,8,anal fin origin,2,2.0,0.0,2.0
+flm_5a529d2a972add58,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_5a529d2a972add58,10,pectoral fin base,2,1.5,0.0,1.5
+flm_5a529d2a972add58,11,posterior opercular margin,2,1.5,0.5,1.5811388300841898
+flm_5d91853689163af7,1,snout tip,2,0.0,2.0,2.0
+flm_5d91853689163af7,2,nape dorsal outline,2,18.5,4.5,19.03943276465977
+flm_5d91853689163af7,3,dorsal fin origin,2,8.5,1.5,8.631338250816034
+flm_5d91853689163af7,4,dorsal fin insertion,2,2.5,0.0,2.5
+flm_5d91853689163af7,5,upper caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_5d91853689163af7,6,caudal peduncle midpoint,2,1.5,2.0,2.5
+flm_5d91853689163af7,7,lower caudal fin insertion,2,2.0,1.0,2.23606797749979
+flm_5d91853689163af7,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_5d91853689163af7,9,pelvic fin origin,2,2.0,1.0,2.23606797749979
+flm_5d91853689163af7,10,pectoral fin base,2,1.5,2.0,2.5
+flm_5d91853689163af7,11,posterior opercular margin,2,0.0,2.5,2.5
+flm_5ecc9ad1bc6394d6,1,snout tip,2,0.5,0.0,0.5
+flm_5ecc9ad1bc6394d6,2,nape dorsal outline,2,1.0,1.0,1.4142135623730951
+flm_5ecc9ad1bc6394d6,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_5ecc9ad1bc6394d6,4,dorsal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_5ecc9ad1bc6394d6,5,upper caudal fin insertion,2,0.0,1.0,1.0
+flm_5ecc9ad1bc6394d6,6,caudal peduncle midpoint,2,0.0,0.5,0.5
+flm_5ecc9ad1bc6394d6,7,lower caudal fin insertion,2,0.5,0.0,0.5
+flm_5ecc9ad1bc6394d6,8,anal fin origin,2,1.5,1.0,1.8027756377319946
+flm_5ecc9ad1bc6394d6,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_5ecc9ad1bc6394d6,10,pectoral fin base,2,0.5,0.0,0.5
+flm_5ecc9ad1bc6394d6,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_5f78734e74de2d69,1,snout tip,2,0.0,1.0,1.0
+flm_5f78734e74de2d69,2,nape dorsal outline,2,0.5,1.0,1.118033988749895
+flm_5f78734e74de2d69,3,dorsal fin origin,2,5.5,1.0,5.5901699437494745
+flm_5f78734e74de2d69,4,dorsal fin insertion,2,0.0,0.5,0.5
+flm_5f78734e74de2d69,5,upper caudal fin insertion,2,2.0,0.0,2.0
+flm_5f78734e74de2d69,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_5f78734e74de2d69,7,lower caudal fin insertion,2,4.5,1.5,4.743416490252569
+flm_5f78734e74de2d69,8,anal fin origin,2,1.5,1.0,1.8027756377319946
+flm_5f78734e74de2d69,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_5f78734e74de2d69,10,pectoral fin base,2,0.5,1.0,1.118033988749895
+flm_5f78734e74de2d69,11,posterior opercular margin,2,1.5,1.5,2.1213203435596424
+flm_604ebee068d0512c,1,snout tip,2,1.0,1.0,1.4142135623730951
+flm_604ebee068d0512c,2,nape dorsal outline,2,1.5,1.0,1.8027756377319946
+flm_604ebee068d0512c,3,dorsal fin origin,2,0.5,1.5,1.5811388300841898
+flm_604ebee068d0512c,4,dorsal fin insertion,2,5.5,0.5,5.522680508593631
+flm_604ebee068d0512c,5,upper caudal fin insertion,2,4.5,0.5,4.527692569068709
+flm_604ebee068d0512c,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_604ebee068d0512c,7,lower caudal fin insertion,2,2.5,0.0,2.5
+flm_604ebee068d0512c,8,anal fin origin,2,0.5,0.0,0.5
+flm_604ebee068d0512c,9,pelvic fin origin,2,2.0,0.0,2.0
+flm_604ebee068d0512c,10,pectoral fin base,2,12.0,7.5,14.150971698084906
+flm_604ebee068d0512c,11,posterior opercular margin,2,1.5,3.0,3.3541019662496847
+flm_694e4aa75f1fabd4,1,snout tip,2,0.5,0.0,0.5
+flm_694e4aa75f1fabd4,2,nape dorsal outline,2,7.5,4.0,8.5
+flm_694e4aa75f1fabd4,3,dorsal fin origin,2,126.0,25.5,128.55446316639495
+flm_694e4aa75f1fabd4,4,dorsal fin insertion,2,0.0,1.5,1.5
+flm_694e4aa75f1fabd4,5,upper caudal fin insertion,2,7.5,5.5,9.300537618869138
+flm_694e4aa75f1fabd4,6,caudal peduncle midpoint,2,0.0,2.5,2.5
+flm_694e4aa75f1fabd4,7,lower caudal fin insertion,2,3.5,1.5,3.8078865529319543
+flm_694e4aa75f1fabd4,8,anal fin origin,2,2.0,0.5,2.0615528128088303
+flm_694e4aa75f1fabd4,9,pelvic fin origin,2,2.5,0.5,2.5495097567963922
+flm_694e4aa75f1fabd4,10,pectoral fin base,2,2.5,0.5,2.5495097567963922
+flm_694e4aa75f1fabd4,11,posterior opercular margin,2,2.5,11.5,11.76860229593982
+flm_69cae52c0178d5bf,1,snout tip,2,1.5,0.5,1.5811388300841898
+flm_69cae52c0178d5bf,2,nape dorsal outline,2,1.5,0.5,1.5811388300841898
+flm_69cae52c0178d5bf,3,dorsal fin origin,2,2.0,0.5,2.0615528128088303
+flm_69cae52c0178d5bf,4,dorsal fin insertion,2,1.0,0.5,1.118033988749895
+flm_69cae52c0178d5bf,5,upper caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_69cae52c0178d5bf,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_69cae52c0178d5bf,7,lower caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_69cae52c0178d5bf,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_69cae52c0178d5bf,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_69cae52c0178d5bf,10,pectoral fin base,2,0.0,1.0,1.0
+flm_69cae52c0178d5bf,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_6c81131c28721786,1,snout tip,2,1.0,0.0,1.0
+flm_6c81131c28721786,2,nape dorsal outline,2,0.0,3.5,3.5
+flm_6c81131c28721786,3,dorsal fin origin,2,0.0,1.0,1.0
+flm_6c81131c28721786,4,dorsal fin insertion,2,2.0,0.5,2.0615528128088303
+flm_6c81131c28721786,5,upper caudal fin insertion,2,0.5,2.0,2.0615528128088303
+flm_6c81131c28721786,6,caudal peduncle midpoint,2,1.0,0.0,1.0
+flm_6c81131c28721786,7,lower caudal fin insertion,2,0.5,2.5,2.5495097567963922
+flm_6c81131c28721786,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_6c81131c28721786,9,pelvic fin origin,2,0.5,3.5,3.5355339059327378
+flm_6c81131c28721786,10,pectoral fin base,2,0.5,4.5,4.527692569068709
+flm_6c81131c28721786,11,posterior opercular margin,2,1.5,0.0,1.5
+flm_6f1f62751d96d4b4,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_6f1f62751d96d4b4,2,nape dorsal outline,2,2.0,0.0,2.0
+flm_6f1f62751d96d4b4,3,dorsal fin origin,2,0.0,6.0,6.0
+flm_6f1f62751d96d4b4,4,dorsal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_6f1f62751d96d4b4,5,upper caudal fin insertion,2,0.0,0.5,0.5
+flm_6f1f62751d96d4b4,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_6f1f62751d96d4b4,7,lower caudal fin insertion,2,1.0,0.0,1.0
+flm_6f1f62751d96d4b4,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_6f1f62751d96d4b4,9,pelvic fin origin,2,0.5,1.0,1.118033988749895
+flm_6f1f62751d96d4b4,10,pectoral fin base,2,1.0,0.0,1.0
+flm_6f1f62751d96d4b4,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_6fbb20f21ffb5595,1,snout tip,2,2.5,1.5,2.9154759474226504
+flm_6fbb20f21ffb5595,2,nape dorsal outline,2,1.5,0.5,1.5811388300841898
+flm_6fbb20f21ffb5595,3,dorsal fin origin,2,0.0,0.0,0.0
+flm_6fbb20f21ffb5595,4,dorsal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_6fbb20f21ffb5595,5,upper caudal fin insertion,2,12.5,1.5,12.589678312014172
+flm_6fbb20f21ffb5595,6,caudal peduncle midpoint,2,8.0,1.5,8.139410298049853
+flm_6fbb20f21ffb5595,7,lower caudal fin insertion,2,11.0,0.0,11.0
+flm_6fbb20f21ffb5595,8,anal fin origin,2,2.5,1.0,2.692582403567252
+flm_6fbb20f21ffb5595,9,pelvic fin origin,2,0.5,2.0,2.0615528128088303
+flm_6fbb20f21ffb5595,10,pectoral fin base,2,0.0,0.5,0.5
+flm_6fbb20f21ffb5595,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_72a4218d80581fa2,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_72a4218d80581fa2,2,nape dorsal outline,2,1.5,1.5,2.1213203435596424
+flm_72a4218d80581fa2,3,dorsal fin origin,2,0.5,1.5,1.5811388300841898
+flm_72a4218d80581fa2,4,dorsal fin insertion,2,0.5,0.0,0.5
+flm_72a4218d80581fa2,5,upper caudal fin insertion,2,2.0,1.0,2.23606797749979
+flm_72a4218d80581fa2,6,caudal peduncle midpoint,2,0.0,0.5,0.5
+flm_72a4218d80581fa2,7,lower caudal fin insertion,2,3.0,0.5,3.0413812651491097
+flm_72a4218d80581fa2,8,anal fin origin,2,1.0,0.0,1.0
+flm_72a4218d80581fa2,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_72a4218d80581fa2,10,pectoral fin base,2,1.5,1.0,1.8027756377319946
+flm_72a4218d80581fa2,11,posterior opercular margin,2,0.0,1.0,1.0
+flm_754d261235322cf0,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_754d261235322cf0,2,nape dorsal outline,2,3.5,1.0,3.640054944640259
+flm_754d261235322cf0,3,dorsal fin origin,2,1.0,1.0,1.4142135623730951
+flm_754d261235322cf0,4,dorsal fin insertion,2,1.0,0.0,1.0
+flm_754d261235322cf0,5,upper caudal fin insertion,2,0.0,0.5,0.5
+flm_754d261235322cf0,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_754d261235322cf0,7,lower caudal fin insertion,2,3.5,0.0,3.5
+flm_754d261235322cf0,8,anal fin origin,2,1.0,1.0,1.4142135623730951
+flm_754d261235322cf0,9,pelvic fin origin,2,0.0,0.5,0.5
+flm_754d261235322cf0,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_754d261235322cf0,11,posterior opercular margin,2,1.0,1.5,1.8027756377319946
+flm_761e3e66a5c96abe,1,snout tip,2,0.5,2.0,2.0615528128088303
+flm_761e3e66a5c96abe,2,nape dorsal outline,2,6.0,0.0,6.0
+flm_761e3e66a5c96abe,3,dorsal fin origin,2,7.5,0.0,7.5
+flm_761e3e66a5c96abe,4,dorsal fin insertion,2,2.0,0.5,2.0615528128088303
+flm_761e3e66a5c96abe,5,upper caudal fin insertion,2,1.0,1.5,1.8027756377319946
+flm_761e3e66a5c96abe,6,caudal peduncle midpoint,2,0.0,1.0,1.0
+flm_761e3e66a5c96abe,7,lower caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_761e3e66a5c96abe,8,anal fin origin,2,2.0,0.0,2.0
+flm_761e3e66a5c96abe,9,pelvic fin origin,2,4.5,4.0,6.020797289396148
+flm_761e3e66a5c96abe,10,pectoral fin base,2,2.5,0.0,2.5
+flm_761e3e66a5c96abe,11,posterior opercular margin,2,1.0,1.0,1.4142135623730951
+flm_7a2b779f7ac9a007,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_7a2b779f7ac9a007,2,nape dorsal outline,2,3.5,0.5,3.5355339059327378
+flm_7a2b779f7ac9a007,3,dorsal fin origin,2,4.0,1.5,4.272001872658765
+flm_7a2b779f7ac9a007,4,dorsal fin insertion,2,1.0,0.0,1.0
+flm_7a2b779f7ac9a007,5,upper caudal fin insertion,2,4.0,0.5,4.031128874149275
+flm_7a2b779f7ac9a007,6,caudal peduncle midpoint,2,1.5,0.5,1.5811388300841898
+flm_7a2b779f7ac9a007,7,lower caudal fin insertion,2,3.0,0.0,3.0
+flm_7a2b779f7ac9a007,8,anal fin origin,2,0.5,1.5,1.5811388300841898
+flm_7a2b779f7ac9a007,9,pelvic fin origin,2,2.0,0.5,2.0615528128088303
+flm_7a2b779f7ac9a007,10,pectoral fin base,2,1.5,1.0,1.8027756377319946
+flm_7a2b779f7ac9a007,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_7b4da19dfd3ab996,1,snout tip,2,0.0,1.5,1.5
+flm_7b4da19dfd3ab996,2,nape dorsal outline,2,0.0,1.0,1.0
+flm_7b4da19dfd3ab996,3,dorsal fin origin,2,0.0,3.0,3.0
+flm_7b4da19dfd3ab996,4,dorsal fin insertion,2,0.5,0.0,0.5
+flm_7b4da19dfd3ab996,5,upper caudal fin insertion,2,0.0,4.5,4.5
+flm_7b4da19dfd3ab996,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_7b4da19dfd3ab996,7,lower caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_7b4da19dfd3ab996,8,anal fin origin,2,1.0,2.0,2.23606797749979
+flm_7b4da19dfd3ab996,9,pelvic fin origin,2,1.0,5.5,5.5901699437494745
+flm_7b4da19dfd3ab996,10,pectoral fin base,2,2.5,1.0,2.692582403567252
+flm_7b4da19dfd3ab996,11,posterior opercular margin,2,1.0,1.0,1.4142135623730951
+flm_7d77fd6f575080aa,1,snout tip,2,0.0,0.0,0.0
+flm_7d77fd6f575080aa,2,nape dorsal outline,2,0.0,0.5,0.5
+flm_7d77fd6f575080aa,3,dorsal fin origin,2,1.0,1.0,1.4142135623730951
+flm_7d77fd6f575080aa,4,dorsal fin insertion,2,1.0,6.0,6.082762530298219
+flm_7d77fd6f575080aa,5,upper caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_7d77fd6f575080aa,6,caudal peduncle midpoint,2,1.0,0.0,1.0
+flm_7d77fd6f575080aa,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_7d77fd6f575080aa,8,anal fin origin,2,2.5,8.0,8.381527307120106
+flm_7d77fd6f575080aa,9,pelvic fin origin,2,1.5,2.5,2.9154759474226504
+flm_7d77fd6f575080aa,10,pectoral fin base,2,1.5,3.5,3.8078865529319543
+flm_7d77fd6f575080aa,11,posterior opercular margin,2,2.0,0.0,2.0
+flm_812f5790c02ee662,1,snout tip,2,1.0,1.0,1.4142135623730951
+flm_812f5790c02ee662,2,nape dorsal outline,2,2.0,0.0,2.0
+flm_812f5790c02ee662,3,dorsal fin origin,2,2.5,0.0,2.5
+flm_812f5790c02ee662,4,dorsal fin insertion,2,2.0,1.0,2.23606797749979
+flm_812f5790c02ee662,5,upper caudal fin insertion,2,5.0,0.5,5.024937810560445
+flm_812f5790c02ee662,6,caudal peduncle midpoint,2,2.0,1.0,2.23606797749979
+flm_812f5790c02ee662,7,lower caudal fin insertion,2,4.0,0.0,4.0
+flm_812f5790c02ee662,8,anal fin origin,2,90.5,21.5,93.01881530099166
+flm_812f5790c02ee662,9,pelvic fin origin,2,62.0,1.5,62.01814250685037
+flm_812f5790c02ee662,10,pectoral fin base,2,1.0,0.5,1.118033988749895
+flm_812f5790c02ee662,11,posterior opercular margin,2,1.0,2.0,2.23606797749979
+flm_9112a24230ed4ea9,1,snout tip,2,0.5,0.0,0.5
+flm_9112a24230ed4ea9,2,nape dorsal outline,2,2.5,0.0,2.5
+flm_9112a24230ed4ea9,3,dorsal fin origin,2,1.0,1.0,1.4142135623730951
+flm_9112a24230ed4ea9,4,dorsal fin insertion,2,2.5,1.0,2.692582403567252
+flm_9112a24230ed4ea9,5,upper caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_9112a24230ed4ea9,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_9112a24230ed4ea9,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_9112a24230ed4ea9,8,anal fin origin,2,2.0,0.5,2.0615528128088303
+flm_9112a24230ed4ea9,9,pelvic fin origin,2,1.5,0.5,1.5811388300841898
+flm_9112a24230ed4ea9,10,pectoral fin base,2,1.0,0.0,1.0
+flm_9112a24230ed4ea9,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_92dcc61d5f4b9831,1,snout tip,2,1.0,2.0,2.23606797749979
+flm_92dcc61d5f4b9831,2,nape dorsal outline,2,0.5,2.0,2.0615528128088303
+flm_92dcc61d5f4b9831,3,dorsal fin origin,2,1.0,1.0,1.4142135623730951
+flm_92dcc61d5f4b9831,4,dorsal fin insertion,2,0.5,0.0,0.5
+flm_92dcc61d5f4b9831,5,upper caudal fin insertion,2,1.5,1.5,2.1213203435596424
+flm_92dcc61d5f4b9831,6,caudal peduncle midpoint,2,0.5,2.5,2.5495097567963922
+flm_92dcc61d5f4b9831,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_92dcc61d5f4b9831,8,anal fin origin,2,2.0,0.0,2.0
+flm_92dcc61d5f4b9831,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_92dcc61d5f4b9831,10,pectoral fin base,2,3.5,0.5,3.5355339059327378
+flm_92dcc61d5f4b9831,11,posterior opercular margin,2,1.0,3.0,3.1622776601683795
+flm_92eb98ec473d47dc,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_92eb98ec473d47dc,2,nape dorsal outline,2,1.5,2.0,2.5
+flm_92eb98ec473d47dc,3,dorsal fin origin,2,3.0,0.5,3.0413812651491097
+flm_92eb98ec473d47dc,4,dorsal fin insertion,2,4.5,0.0,4.5
+flm_92eb98ec473d47dc,5,upper caudal fin insertion,2,6.0,2.0,6.324555320336759
+flm_92eb98ec473d47dc,6,caudal peduncle midpoint,2,2.0,0.5,2.0615528128088303
+flm_92eb98ec473d47dc,7,lower caudal fin insertion,2,4.5,0.0,4.5
+flm_92eb98ec473d47dc,8,anal fin origin,2,5.0,1.0,5.0990195135927845
+flm_92eb98ec473d47dc,9,pelvic fin origin,2,2.0,0.0,2.0
+flm_92eb98ec473d47dc,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_92eb98ec473d47dc,11,posterior opercular margin,2,0.5,0.0,0.5
+flm_9639f9a00982a6d3,1,snout tip,2,0.0,0.0,0.0
+flm_9639f9a00982a6d3,2,nape dorsal outline,2,0.5,4.5,4.527692569068709
+flm_9639f9a00982a6d3,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_9639f9a00982a6d3,4,dorsal fin insertion,2,3.0,22.5,22.699118925632334
+flm_9639f9a00982a6d3,5,upper caudal fin insertion,2,1.0,0.0,1.0
+flm_9639f9a00982a6d3,6,caudal peduncle midpoint,2,0.5,1.5,1.5811388300841898
+flm_9639f9a00982a6d3,7,lower caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_9639f9a00982a6d3,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_9639f9a00982a6d3,9,pelvic fin origin,2,1.0,4.0,4.123105625617661
+flm_9639f9a00982a6d3,10,pectoral fin base,2,0.5,1.5,1.5811388300841898
+flm_9639f9a00982a6d3,11,posterior opercular margin,2,3.0,0.5,3.0413812651491097
+flm_96d141feac9927e8,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_96d141feac9927e8,2,nape dorsal outline,2,2.0,3.5,4.031128874149275
+flm_96d141feac9927e8,3,dorsal fin origin,2,13.5,110.5,111.32160616879366
+flm_96d141feac9927e8,4,dorsal fin insertion,2,1.0,0.5,1.118033988749895
+flm_96d141feac9927e8,5,upper caudal fin insertion,2,0.0,4.5,4.5
+flm_96d141feac9927e8,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_96d141feac9927e8,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_96d141feac9927e8,8,anal fin origin,2,1.0,1.0,1.4142135623730951
+flm_96d141feac9927e8,9,pelvic fin origin,2,1.0,9.0,9.055385138137417
+flm_96d141feac9927e8,10,pectoral fin base,2,0.5,0.0,0.5
+flm_96d141feac9927e8,11,posterior opercular margin,2,6.0,30.0,30.59411708155671
+flm_9c11354b1b20bcf2,1,snout tip,2,1.5,0.5,1.5811388300841898
+flm_9c11354b1b20bcf2,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_9c11354b1b20bcf2,3,dorsal fin origin,2,1.5,1.0,1.8027756377319946
+flm_9c11354b1b20bcf2,4,dorsal fin insertion,2,1.0,0.5,1.118033988749895
+flm_9c11354b1b20bcf2,5,upper caudal fin insertion,2,4.0,1.5,4.272001872658765
+flm_9c11354b1b20bcf2,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_9c11354b1b20bcf2,7,lower caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_9c11354b1b20bcf2,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_9c11354b1b20bcf2,9,pelvic fin origin,2,3.0,1.0,3.1622776601683795
+flm_9c11354b1b20bcf2,10,pectoral fin base,2,2.0,0.0,2.0
+flm_9c11354b1b20bcf2,11,posterior opercular margin,2,0.0,1.0,1.0
+flm_9cd6faffab4b2a5f,1,snout tip,2,0.0,0.5,0.5
+flm_9cd6faffab4b2a5f,2,nape dorsal outline,2,2.0,2.0,2.8284271247461903
+flm_9cd6faffab4b2a5f,3,dorsal fin origin,2,0.5,1.0,1.118033988749895
+flm_9cd6faffab4b2a5f,4,dorsal fin insertion,2,0.5,2.0,2.0615528128088303
+flm_9cd6faffab4b2a5f,5,upper caudal fin insertion,2,0.5,2.0,2.0615528128088303
+flm_9cd6faffab4b2a5f,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_9cd6faffab4b2a5f,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_9cd6faffab4b2a5f,8,anal fin origin,2,1.0,1.5,1.8027756377319946
+flm_9cd6faffab4b2a5f,9,pelvic fin origin,2,0.5,1.0,1.118033988749895
+flm_9cd6faffab4b2a5f,10,pectoral fin base,2,0.0,0.5,0.5
+flm_9cd6faffab4b2a5f,11,posterior opercular margin,2,1.5,1.0,1.8027756377319946
+flm_a01011d4066505f6,1,snout tip,2,1.0,0.0,1.0
+flm_a01011d4066505f6,2,nape dorsal outline,2,3.5,3.0,4.6097722286464435
+flm_a01011d4066505f6,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_a01011d4066505f6,4,dorsal fin insertion,2,2.5,1.0,2.692582403567252
+flm_a01011d4066505f6,5,upper caudal fin insertion,2,5.5,0.5,5.522680508593631
+flm_a01011d4066505f6,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_a01011d4066505f6,7,lower caudal fin insertion,2,0.0,0.5,0.5
+flm_a01011d4066505f6,8,anal fin origin,2,0.5,1.0,1.118033988749895
+flm_a01011d4066505f6,9,pelvic fin origin,2,0.5,1.0,1.118033988749895
+flm_a01011d4066505f6,10,pectoral fin base,2,3.5,0.5,3.5355339059327378
+flm_a01011d4066505f6,11,posterior opercular margin,2,0.0,0.0,0.0
+flm_a13ca16692a39ba8,1,snout tip,2,0.0,0.5,0.5
+flm_a13ca16692a39ba8,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_a13ca16692a39ba8,3,dorsal fin origin,2,0.0,2.0,2.0
+flm_a13ca16692a39ba8,4,dorsal fin insertion,2,0.0,1.0,1.0
+flm_a13ca16692a39ba8,5,upper caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_a13ca16692a39ba8,6,caudal peduncle midpoint,2,0.0,1.0,1.0
+flm_a13ca16692a39ba8,7,lower caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_a13ca16692a39ba8,8,anal fin origin,2,1.0,2.5,2.692582403567252
+flm_a13ca16692a39ba8,9,pelvic fin origin,2,2.5,2.0,3.2015621187164243
+flm_a13ca16692a39ba8,10,pectoral fin base,2,2.0,1.0,2.23606797749979
+flm_a13ca16692a39ba8,11,posterior opercular margin,2,2.5,0.0,2.5
+flm_a9c4af0a7656c619,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_a9c4af0a7656c619,2,nape dorsal outline,2,0.5,7.0,7.0178344238090995
+flm_a9c4af0a7656c619,3,dorsal fin origin,2,1.5,1.5,2.1213203435596424
+flm_a9c4af0a7656c619,4,dorsal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_a9c4af0a7656c619,5,upper caudal fin insertion,2,0.0,0.0,0.0
+flm_a9c4af0a7656c619,6,caudal peduncle midpoint,2,0.0,1.5,1.5
+flm_a9c4af0a7656c619,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_a9c4af0a7656c619,8,anal fin origin,2,0.5,10.5,10.51189802081432
+flm_a9c4af0a7656c619,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_a9c4af0a7656c619,10,pectoral fin base,2,3.0,7.0,7.615773105863909
+flm_a9c4af0a7656c619,11,posterior opercular margin,2,2.0,0.5,2.0615528128088303
+flm_ab118cb294c5d23d,1,snout tip,2,2.0,1.0,2.23606797749979
+flm_ab118cb294c5d23d,2,nape dorsal outline,2,3.5,1.0,3.640054944640259
+flm_ab118cb294c5d23d,3,dorsal fin origin,2,0.5,1.0,1.118033988749895
+flm_ab118cb294c5d23d,4,dorsal fin insertion,2,3.5,1.0,3.640054944640259
+flm_ab118cb294c5d23d,5,upper caudal fin insertion,2,5.5,0.5,5.522680508593631
+flm_ab118cb294c5d23d,6,caudal peduncle midpoint,2,2.0,1.0,2.23606797749979
+flm_ab118cb294c5d23d,7,lower caudal fin insertion,2,5.5,0.0,5.5
+flm_ab118cb294c5d23d,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_ab118cb294c5d23d,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_ab118cb294c5d23d,10,pectoral fin base,2,1.5,0.0,1.5
+flm_ab118cb294c5d23d,11,posterior opercular margin,2,0.0,2.5,2.5
+flm_b0a6761df5641744,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_b0a6761df5641744,2,nape dorsal outline,2,0.5,1.0,1.118033988749895
+flm_b0a6761df5641744,3,dorsal fin origin,2,0.0,1.5,1.5
+flm_b0a6761df5641744,4,dorsal fin insertion,2,2.0,1.0,2.23606797749979
+flm_b0a6761df5641744,5,upper caudal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_b0a6761df5641744,6,caudal peduncle midpoint,2,0.0,1.0,1.0
+flm_b0a6761df5641744,7,lower caudal fin insertion,2,3.0,1.5,3.3541019662496847
+flm_b0a6761df5641744,8,anal fin origin,2,1.0,1.5,1.8027756377319946
+flm_b0a6761df5641744,9,pelvic fin origin,2,1.0,0.0,1.0
+flm_b0a6761df5641744,10,pectoral fin base,2,0.0,0.5,0.5
+flm_b0a6761df5641744,11,posterior opercular margin,2,0.5,1.0,1.118033988749895
+flm_b2cce66ce8be0f1e,1,snout tip,2,1.5,0.5,1.5811388300841898
+flm_b2cce66ce8be0f1e,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_b2cce66ce8be0f1e,3,dorsal fin origin,2,3.5,0.5,3.5355339059327378
+flm_b2cce66ce8be0f1e,4,dorsal fin insertion,2,0.5,1.0,1.118033988749895
+flm_b2cce66ce8be0f1e,5,upper caudal fin insertion,2,0.0,0.5,0.5
+flm_b2cce66ce8be0f1e,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_b2cce66ce8be0f1e,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_b2cce66ce8be0f1e,8,anal fin origin,2,1.5,0.0,1.5
+flm_b2cce66ce8be0f1e,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_b2cce66ce8be0f1e,10,pectoral fin base,2,1.0,0.5,1.118033988749895
+flm_b2cce66ce8be0f1e,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_b43855f597876850,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_b43855f597876850,2,nape dorsal outline,2,0.0,0.5,0.5
+flm_b43855f597876850,3,dorsal fin origin,2,1.0,0.0,1.0
+flm_b43855f597876850,4,dorsal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_b43855f597876850,5,upper caudal fin insertion,2,2.5,1.5,2.9154759474226504
+flm_b43855f597876850,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_b43855f597876850,7,lower caudal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_b43855f597876850,8,anal fin origin,2,10.0,1.0,10.04987562112089
+flm_b43855f597876850,9,pelvic fin origin,2,1.0,0.0,1.0
+flm_b43855f597876850,10,pectoral fin base,2,1.5,0.5,1.5811388300841898
+flm_b43855f597876850,11,posterior opercular margin,2,0.0,0.0,0.0
+flm_b64ae5cd37b278f2,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_b64ae5cd37b278f2,2,nape dorsal outline,2,2.0,1.0,2.23606797749979
+flm_b64ae5cd37b278f2,3,dorsal fin origin,2,2.0,1.0,2.23606797749979
+flm_b64ae5cd37b278f2,4,dorsal fin insertion,2,1.0,2.0,2.23606797749979
+flm_b64ae5cd37b278f2,5,upper caudal fin insertion,2,0.0,0.0,0.0
+flm_b64ae5cd37b278f2,6,caudal peduncle midpoint,2,0.0,1.0,1.0
+flm_b64ae5cd37b278f2,7,lower caudal fin insertion,2,0.0,3.0,3.0
+flm_b64ae5cd37b278f2,8,anal fin origin,2,0.5,1.5,1.5811388300841898
+flm_b64ae5cd37b278f2,9,pelvic fin origin,2,0.0,10.5,10.5
+flm_b64ae5cd37b278f2,10,pectoral fin base,2,0.5,0.0,0.5
+flm_b64ae5cd37b278f2,11,posterior opercular margin,2,3.5,1.0,3.640054944640259
+flm_b7b5725a297d600b,1,snout tip,2,0.0,1.5,1.5
+flm_b7b5725a297d600b,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_b7b5725a297d600b,3,dorsal fin origin,2,0.5,0.5,0.7071067811865476
+flm_b7b5725a297d600b,4,dorsal fin insertion,2,1.0,0.5,1.118033988749895
+flm_b7b5725a297d600b,5,upper caudal fin insertion,2,6.5,1.5,6.670832032063167
+flm_b7b5725a297d600b,6,caudal peduncle midpoint,2,3.0,2.0,3.605551275463989
+flm_b7b5725a297d600b,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_b7b5725a297d600b,8,anal fin origin,2,0.0,0.5,0.5
+flm_b7b5725a297d600b,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_b7b5725a297d600b,10,pectoral fin base,2,0.5,2.0,2.0615528128088303
+flm_b7b5725a297d600b,11,posterior opercular margin,2,1.5,2.5,2.9154759474226504
+flm_b7bf368d23ba34f7,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_b7bf368d23ba34f7,2,nape dorsal outline,2,1.5,4.0,4.272001872658765
+flm_b7bf368d23ba34f7,3,dorsal fin origin,2,0.0,0.5,0.5
+flm_b7bf368d23ba34f7,4,dorsal fin insertion,2,0.0,1.5,1.5
+flm_b7bf368d23ba34f7,5,upper caudal fin insertion,2,0.5,3.0,3.0413812651491097
+flm_b7bf368d23ba34f7,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_b7bf368d23ba34f7,7,lower caudal fin insertion,2,2.0,3.0,3.605551275463989
+flm_b7bf368d23ba34f7,8,anal fin origin,2,1.5,1.5,2.1213203435596424
+flm_b7bf368d23ba34f7,9,pelvic fin origin,2,1.5,3.5,3.8078865529319543
+flm_b7bf368d23ba34f7,10,pectoral fin base,2,0.5,0.0,0.5
+flm_b7bf368d23ba34f7,11,posterior opercular margin,2,5.5,2.0,5.852349955359813
+flm_ba3cdc63e5a5e26e,1,snout tip,2,0.0,0.5,0.5
+flm_ba3cdc63e5a5e26e,2,nape dorsal outline,2,2.0,10.5,10.688779163215974
+flm_ba3cdc63e5a5e26e,3,dorsal fin origin,2,1.0,1.0,1.4142135623730951
+flm_ba3cdc63e5a5e26e,4,dorsal fin insertion,2,1.0,4.5,4.6097722286464435
+flm_ba3cdc63e5a5e26e,5,upper caudal fin insertion,2,0.0,1.0,1.0
+flm_ba3cdc63e5a5e26e,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_ba3cdc63e5a5e26e,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_ba3cdc63e5a5e26e,8,anal fin origin,2,22.0,105.5,107.76942980270425
+flm_ba3cdc63e5a5e26e,9,pelvic fin origin,2,1.5,47.5,47.52367830881781
+flm_ba3cdc63e5a5e26e,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_ba3cdc63e5a5e26e,11,posterior opercular margin,2,1.5,1.0,1.8027756377319946
+flm_bad784628173d48b,1,snout tip,2,0.0,0.5,0.5
+flm_bad784628173d48b,2,nape dorsal outline,2,1.0,0.5,1.118033988749895
+flm_bad784628173d48b,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_bad784628173d48b,4,dorsal fin insertion,2,6.5,1.0,6.576473218982953
+flm_bad784628173d48b,5,upper caudal fin insertion,2,7.0,0.0,7.0
+flm_bad784628173d48b,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_bad784628173d48b,7,lower caudal fin insertion,2,4.0,0.5,4.031128874149275
+flm_bad784628173d48b,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_bad784628173d48b,9,pelvic fin origin,2,1.0,0.0,1.0
+flm_bad784628173d48b,10,pectoral fin base,2,2.0,0.0,2.0
+flm_bad784628173d48b,11,posterior opercular margin,2,0.5,1.0,1.118033988749895
+flm_bb9ff9e524006c8d,1,snout tip,2,0.5,0.0,0.5
+flm_bb9ff9e524006c8d,2,nape dorsal outline,2,1.0,0.5,1.118033988749895
+flm_bb9ff9e524006c8d,3,dorsal fin origin,2,7.0,0.5,7.0178344238090995
+flm_bb9ff9e524006c8d,4,dorsal fin insertion,2,4.5,1.0,4.6097722286464435
+flm_bb9ff9e524006c8d,5,upper caudal fin insertion,2,0.5,0.0,0.5
+flm_bb9ff9e524006c8d,6,caudal peduncle midpoint,2,0.5,2.0,2.0615528128088303
+flm_bb9ff9e524006c8d,7,lower caudal fin insertion,2,1.5,1.5,2.1213203435596424
+flm_bb9ff9e524006c8d,8,anal fin origin,2,2.0,0.5,2.0615528128088303
+flm_bb9ff9e524006c8d,9,pelvic fin origin,2,1.5,0.5,1.5811388300841898
+flm_bb9ff9e524006c8d,10,pectoral fin base,2,3.5,0.0,3.5
+flm_bb9ff9e524006c8d,11,posterior opercular margin,2,0.5,0.0,0.5
+flm_bd1caf90be38cfc2,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_bd1caf90be38cfc2,2,nape dorsal outline,2,3.0,3.0,4.242640687119285
+flm_bd1caf90be38cfc2,3,dorsal fin origin,2,0.0,0.0,0.0
+flm_bd1caf90be38cfc2,4,dorsal fin insertion,2,0.0,2.0,2.0
+flm_bd1caf90be38cfc2,5,upper caudal fin insertion,2,1.0,2.5,2.692582403567252
+flm_bd1caf90be38cfc2,6,caudal peduncle midpoint,2,0.0,1.5,1.5
+flm_bd1caf90be38cfc2,7,lower caudal fin insertion,2,0.5,2.5,2.5495097567963922
+flm_bd1caf90be38cfc2,8,anal fin origin,2,0.5,1.5,1.5811388300841898
+flm_bd1caf90be38cfc2,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_bd1caf90be38cfc2,10,pectoral fin base,2,2.5,0.5,2.5495097567963922
+flm_bd1caf90be38cfc2,11,posterior opercular margin,2,2.5,1.0,2.692582403567252
+flm_be139d50d0262cd6,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_be139d50d0262cd6,2,nape dorsal outline,2,3.0,1.0,3.1622776601683795
+flm_be139d50d0262cd6,3,dorsal fin origin,2,3.0,2.0,3.605551275463989
+flm_be139d50d0262cd6,4,dorsal fin insertion,2,2.5,0.0,2.5
+flm_be139d50d0262cd6,5,upper caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_be139d50d0262cd6,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_be139d50d0262cd6,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_be139d50d0262cd6,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_be139d50d0262cd6,9,pelvic fin origin,2,3.5,0.0,3.5
+flm_be139d50d0262cd6,10,pectoral fin base,2,0.5,0.0,0.5
+flm_be139d50d0262cd6,11,posterior opercular margin,2,0.0,0.5,0.5
+flm_be58d709e40c7a7a,1,snout tip,2,1.0,1.0,1.4142135623730951
+flm_be58d709e40c7a7a,2,nape dorsal outline,2,18.0,3.0,18.24828759089466
+flm_be58d709e40c7a7a,3,dorsal fin origin,2,2.5,0.0,2.5
+flm_be58d709e40c7a7a,4,dorsal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_be58d709e40c7a7a,5,upper caudal fin insertion,2,2.0,2.5,3.2015621187164243
+flm_be58d709e40c7a7a,6,caudal peduncle midpoint,2,0.0,0.5,0.5
+flm_be58d709e40c7a7a,7,lower caudal fin insertion,2,2.0,1.0,2.23606797749979
+flm_be58d709e40c7a7a,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_be58d709e40c7a7a,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_be58d709e40c7a7a,10,pectoral fin base,2,4.5,0.0,4.5
+flm_be58d709e40c7a7a,11,posterior opercular margin,2,6.5,9.0,11.10180165558726
+flm_c0232bef5b0a4a0a,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_c0232bef5b0a4a0a,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_c0232bef5b0a4a0a,3,dorsal fin origin,2,2.5,0.5,2.5495097567963922
+flm_c0232bef5b0a4a0a,4,dorsal fin insertion,2,24.5,9.5,26.277366686941825
+flm_c0232bef5b0a4a0a,5,upper caudal fin insertion,2,3.0,0.5,3.0413812651491097
+flm_c0232bef5b0a4a0a,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_c0232bef5b0a4a0a,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_c0232bef5b0a4a0a,8,anal fin origin,2,1.0,1.0,1.4142135623730951
+flm_c0232bef5b0a4a0a,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_c0232bef5b0a4a0a,10,pectoral fin base,2,0.5,0.5,0.7071067811865476
+flm_c0232bef5b0a4a0a,11,posterior opercular margin,2,1.0,0.0,1.0
+flm_c0464f4507c6a022,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_c0464f4507c6a022,2,nape dorsal outline,2,1.0,1.5,1.8027756377319946
+flm_c0464f4507c6a022,3,dorsal fin origin,2,0.5,4.5,4.527692569068709
+flm_c0464f4507c6a022,4,dorsal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_c0464f4507c6a022,5,upper caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_c0464f4507c6a022,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_c0464f4507c6a022,7,lower caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_c0464f4507c6a022,8,anal fin origin,2,0.5,4.5,4.527692569068709
+flm_c0464f4507c6a022,9,pelvic fin origin,2,1.0,5.0,5.0990195135927845
+flm_c0464f4507c6a022,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_c0464f4507c6a022,11,posterior opercular margin,2,2.5,0.5,2.5495097567963922
+flm_c05f3f1541ca19ac,1,snout tip,2,2.0,1.0,2.23606797749979
+flm_c05f3f1541ca19ac,2,nape dorsal outline,2,0.0,0.0,0.0
+flm_c05f3f1541ca19ac,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_c05f3f1541ca19ac,4,dorsal fin insertion,2,0.0,1.5,1.5
+flm_c05f3f1541ca19ac,5,upper caudal fin insertion,2,1.0,4.5,4.6097722286464435
+flm_c05f3f1541ca19ac,6,caudal peduncle midpoint,2,0.0,1.0,1.0
+flm_c05f3f1541ca19ac,7,lower caudal fin insertion,2,0.0,2.0,2.0
+flm_c05f3f1541ca19ac,8,anal fin origin,2,0.5,0.0,0.5
+flm_c05f3f1541ca19ac,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_c05f3f1541ca19ac,10,pectoral fin base,2,0.5,1.5,1.5811388300841898
+flm_c05f3f1541ca19ac,11,posterior opercular margin,2,2.5,1.0,2.692582403567252
+flm_c20c8bdeec6b3ac3,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_c20c8bdeec6b3ac3,2,nape dorsal outline,2,0.5,1.0,1.118033988749895
+flm_c20c8bdeec6b3ac3,3,dorsal fin origin,2,1.0,1.5,1.8027756377319946
+flm_c20c8bdeec6b3ac3,4,dorsal fin insertion,2,0.0,4.0,4.0
+flm_c20c8bdeec6b3ac3,5,upper caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_c20c8bdeec6b3ac3,6,caudal peduncle midpoint,2,2.0,0.0,2.0
+flm_c20c8bdeec6b3ac3,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_c20c8bdeec6b3ac3,8,anal fin origin,2,1.0,2.0,2.23606797749979
+flm_c20c8bdeec6b3ac3,9,pelvic fin origin,2,0.5,1.5,1.5811388300841898
+flm_c20c8bdeec6b3ac3,10,pectoral fin base,2,0.0,2.5,2.5
+flm_c20c8bdeec6b3ac3,11,posterior opercular margin,2,3.0,0.0,3.0
+flm_c4785dbe9a2db9cd,1,snout tip,2,1.5,0.0,1.5
+flm_c4785dbe9a2db9cd,2,nape dorsal outline,2,4.0,0.0,4.0
+flm_c4785dbe9a2db9cd,3,dorsal fin origin,2,0.5,1.0,1.118033988749895
+flm_c4785dbe9a2db9cd,4,dorsal fin insertion,2,4.0,0.5,4.031128874149275
+flm_c4785dbe9a2db9cd,5,upper caudal fin insertion,2,5.5,1.5,5.70087712549569
+flm_c4785dbe9a2db9cd,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_c4785dbe9a2db9cd,7,lower caudal fin insertion,2,3.0,1.0,3.1622776601683795
+flm_c4785dbe9a2db9cd,8,anal fin origin,2,1.0,0.0,1.0
+flm_c4785dbe9a2db9cd,9,pelvic fin origin,2,1.5,0.0,1.5
+flm_c4785dbe9a2db9cd,10,pectoral fin base,2,1.5,0.5,1.5811388300841898
+flm_c4785dbe9a2db9cd,11,posterior opercular margin,2,0.0,1.5,1.5
+flm_c56251ae302bbbe8,1,snout tip,2,0.5,0.0,0.5
+flm_c56251ae302bbbe8,2,nape dorsal outline,2,5.0,0.5,5.024937810560445
+flm_c56251ae302bbbe8,3,dorsal fin origin,2,1.0,2.5,2.692582403567252
+flm_c56251ae302bbbe8,4,dorsal fin insertion,2,0.0,0.5,0.5
+flm_c56251ae302bbbe8,5,upper caudal fin insertion,2,2.0,1.0,2.23606797749979
+flm_c56251ae302bbbe8,6,caudal peduncle midpoint,2,1.5,1.0,1.8027756377319946
+flm_c56251ae302bbbe8,7,lower caudal fin insertion,2,2.0,0.5,2.0615528128088303
+flm_c56251ae302bbbe8,8,anal fin origin,2,0.5,2.5,2.5495097567963922
+flm_c56251ae302bbbe8,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_c56251ae302bbbe8,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_c56251ae302bbbe8,11,posterior opercular margin,2,1.5,2.0,2.5
+flm_d20dc574c4d7a2ff,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_d20dc574c4d7a2ff,2,nape dorsal outline,2,3.0,0.5,3.0413812651491097
+flm_d20dc574c4d7a2ff,3,dorsal fin origin,2,3.0,1.0,3.1622776601683795
+flm_d20dc574c4d7a2ff,4,dorsal fin insertion,2,0.0,1.0,1.0
+flm_d20dc574c4d7a2ff,5,upper caudal fin insertion,2,6.5,2.5,6.96419413859206
+flm_d20dc574c4d7a2ff,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_d20dc574c4d7a2ff,7,lower caudal fin insertion,2,8.0,1.0,8.06225774829855
+flm_d20dc574c4d7a2ff,8,anal fin origin,2,0.0,1.5,1.5
+flm_d20dc574c4d7a2ff,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_d20dc574c4d7a2ff,10,pectoral fin base,2,2.0,0.5,2.0615528128088303
+flm_d20dc574c4d7a2ff,11,posterior opercular margin,2,1.0,0.5,1.118033988749895
+flm_d26aa1c7930f1428,1,snout tip,2,0.5,1.5,1.5811388300841898
+flm_d26aa1c7930f1428,2,nape dorsal outline,2,2.5,2.5,3.5355339059327378
+flm_d26aa1c7930f1428,3,dorsal fin origin,2,1.0,1.0,1.4142135623730951
+flm_d26aa1c7930f1428,4,dorsal fin insertion,2,0.0,2.5,2.5
+flm_d26aa1c7930f1428,5,upper caudal fin insertion,2,1.0,5.5,5.5901699437494745
+flm_d26aa1c7930f1428,6,caudal peduncle midpoint,2,0.5,2.5,2.5495097567963922
+flm_d26aa1c7930f1428,7,lower caudal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_d26aa1c7930f1428,8,anal fin origin,2,0.0,1.5,1.5
+flm_d26aa1c7930f1428,9,pelvic fin origin,2,0.0,1.5,1.5
+flm_d26aa1c7930f1428,10,pectoral fin base,2,1.0,1.5,1.8027756377319946
+flm_d26aa1c7930f1428,11,posterior opercular margin,2,2.5,0.5,2.5495097567963922
+flm_d7f55c50965dcca1,1,snout tip,2,1.5,0.0,1.5
+flm_d7f55c50965dcca1,2,nape dorsal outline,2,2.0,2.5,3.2015621187164243
+flm_d7f55c50965dcca1,3,dorsal fin origin,2,0.5,0.0,0.5
+flm_d7f55c50965dcca1,4,dorsal fin insertion,2,0.5,7.5,7.516648189186454
+flm_d7f55c50965dcca1,5,upper caudal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_d7f55c50965dcca1,6,caudal peduncle midpoint,2,0.0,1.5,1.5
+flm_d7f55c50965dcca1,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_d7f55c50965dcca1,8,anal fin origin,2,7.5,59.0,59.47478457295999
+flm_d7f55c50965dcca1,9,pelvic fin origin,2,4.0,52.5,52.652160449501025
+flm_d7f55c50965dcca1,10,pectoral fin base,2,0.0,8.5,8.5
+flm_d7f55c50965dcca1,11,posterior opercular margin,2,1.5,0.5,1.5811388300841898
+flm_decbe08b4ae8d2e2,1,snout tip,2,0.0,0.5,0.5
+flm_decbe08b4ae8d2e2,2,nape dorsal outline,2,1.5,2.0,2.5
+flm_decbe08b4ae8d2e2,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_decbe08b4ae8d2e2,4,dorsal fin insertion,2,1.0,0.5,1.118033988749895
+flm_decbe08b4ae8d2e2,5,upper caudal fin insertion,2,1.0,0.0,1.0
+flm_decbe08b4ae8d2e2,6,caudal peduncle midpoint,2,1.0,2.5,2.692582403567252
+flm_decbe08b4ae8d2e2,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_decbe08b4ae8d2e2,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_decbe08b4ae8d2e2,9,pelvic fin origin,2,0.5,0.5,0.7071067811865476
+flm_decbe08b4ae8d2e2,10,pectoral fin base,2,1.0,1.0,1.4142135623730951
+flm_decbe08b4ae8d2e2,11,posterior opercular margin,2,4.0,1.0,4.123105625617661
+flm_e038828c619c5268,1,snout tip,2,0.0,0.5,0.5
+flm_e038828c619c5268,2,nape dorsal outline,2,2.5,1.0,2.692582403567252
+flm_e038828c619c5268,3,dorsal fin origin,2,5.5,2.0,5.852349955359813
+flm_e038828c619c5268,4,dorsal fin insertion,2,5.0,0.0,5.0
+flm_e038828c619c5268,5,upper caudal fin insertion,2,5.5,1.0,5.5901699437494745
+flm_e038828c619c5268,6,caudal peduncle midpoint,2,2.5,0.5,2.5495097567963922
+flm_e038828c619c5268,7,lower caudal fin insertion,2,1.0,0.5,1.118033988749895
+flm_e038828c619c5268,8,anal fin origin,2,2.0,1.0,2.23606797749979
+flm_e038828c619c5268,9,pelvic fin origin,2,2.5,0.5,2.5495097567963922
+flm_e038828c619c5268,10,pectoral fin base,2,4.0,3.0,5.0
+flm_e038828c619c5268,11,posterior opercular margin,2,3.0,2.0,3.605551275463989
+flm_e04c0eb29d5e04ec,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_e04c0eb29d5e04ec,2,nape dorsal outline,2,3.5,2.0,4.031128874149275
+flm_e04c0eb29d5e04ec,3,dorsal fin origin,2,1.0,0.5,1.118033988749895
+flm_e04c0eb29d5e04ec,4,dorsal fin insertion,2,1.0,1.5,1.8027756377319946
+flm_e04c0eb29d5e04ec,5,upper caudal fin insertion,2,0.0,1.0,1.0
+flm_e04c0eb29d5e04ec,6,caudal peduncle midpoint,2,0.5,2.5,2.5495097567963922
+flm_e04c0eb29d5e04ec,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_e04c0eb29d5e04ec,8,anal fin origin,2,3.0,0.5,3.0413812651491097
+flm_e04c0eb29d5e04ec,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_e04c0eb29d5e04ec,10,pectoral fin base,2,4.0,0.5,4.031128874149275
+flm_e04c0eb29d5e04ec,11,posterior opercular margin,2,0.5,5.0,5.024937810560445
+flm_e17e590b8dd8cf2c,1,snout tip,2,0.0,0.5,0.5
+flm_e17e590b8dd8cf2c,2,nape dorsal outline,2,2.5,0.5,2.5495097567963922
+flm_e17e590b8dd8cf2c,3,dorsal fin origin,2,0.5,1.0,1.118033988749895
+flm_e17e590b8dd8cf2c,4,dorsal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_e17e590b8dd8cf2c,5,upper caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_e17e590b8dd8cf2c,6,caudal peduncle midpoint,2,0.0,0.0,0.0
+flm_e17e590b8dd8cf2c,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_e17e590b8dd8cf2c,8,anal fin origin,2,1.5,0.5,1.5811388300841898
+flm_e17e590b8dd8cf2c,9,pelvic fin origin,2,0.5,0.0,0.5
+flm_e17e590b8dd8cf2c,10,pectoral fin base,2,0.0,0.5,0.5
+flm_e17e590b8dd8cf2c,11,posterior opercular margin,2,0.0,0.5,0.5
+flm_e1fe2e6e351f7c56,1,snout tip,3,0.0,2.0,2.0
+flm_e1fe2e6e351f7c56,2,nape dorsal outline,3,4.0,3.0,5.0
+flm_e1fe2e6e351f7c56,3,dorsal fin origin,3,1.0,1.0,1.4142135623730951
+flm_e1fe2e6e351f7c56,4,dorsal fin insertion,3,1.0,1.0,1.4142135623730951
+flm_e1fe2e6e351f7c56,5,upper caudal fin insertion,3,0.0,0.0,0.0
+flm_e1fe2e6e351f7c56,6,caudal peduncle midpoint,3,2.0,1.0,2.23606797749979
+flm_e1fe2e6e351f7c56,7,lower caudal fin insertion,3,1.0,0.0,1.0
+flm_e1fe2e6e351f7c56,8,anal fin origin,3,1.0,1.0,1.4142135623730951
+flm_e1fe2e6e351f7c56,9,pelvic fin origin,3,1.0,0.0,1.0
+flm_e1fe2e6e351f7c56,10,pectoral fin base,3,4.0,2.0,4.47213595499958
+flm_e1fe2e6e351f7c56,11,posterior opercular margin,3,0.0,6.0,6.0
+flm_e934cb6d7968cae2,1,snout tip,2,0.5,0.5,0.7071067811865476
+flm_e934cb6d7968cae2,2,nape dorsal outline,2,0.5,2.5,2.5495097567963922
+flm_e934cb6d7968cae2,3,dorsal fin origin,2,4.0,2.0,4.47213595499958
+flm_e934cb6d7968cae2,4,dorsal fin insertion,2,5.0,1.0,5.0990195135927845
+flm_e934cb6d7968cae2,5,upper caudal fin insertion,2,3.0,2.0,3.605551275463989
+flm_e934cb6d7968cae2,6,caudal peduncle midpoint,2,0.5,0.0,0.5
+flm_e934cb6d7968cae2,7,lower caudal fin insertion,2,5.5,0.0,5.5
+flm_e934cb6d7968cae2,8,anal fin origin,2,103.0,18.0,104.5609869884557
+flm_e934cb6d7968cae2,9,pelvic fin origin,2,57.5,2.0,57.53477209479499
+flm_e934cb6d7968cae2,10,pectoral fin base,2,0.5,2.0,2.0615528128088303
+flm_e934cb6d7968cae2,11,posterior opercular margin,2,1.0,1.5,1.8027756377319946
+flm_ea13c7013a3454d3,1,snout tip,2,1.5,0.5,1.5811388300841898
+flm_ea13c7013a3454d3,2,nape dorsal outline,2,0.5,11.5,11.510864433221338
+flm_ea13c7013a3454d3,3,dorsal fin origin,2,0.5,0.5,0.7071067811865476
+flm_ea13c7013a3454d3,4,dorsal fin insertion,2,0.5,3.0,3.0413812651491097
+flm_ea13c7013a3454d3,5,upper caudal fin insertion,2,1.5,6.5,6.670832032063167
+flm_ea13c7013a3454d3,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_ea13c7013a3454d3,7,lower caudal fin insertion,2,2.5,1.5,2.9154759474226504
+flm_ea13c7013a3454d3,8,anal fin origin,2,1.5,1.5,2.1213203435596424
+flm_ea13c7013a3454d3,9,pelvic fin origin,2,0.0,9.0,9.0
+flm_ea13c7013a3454d3,10,pectoral fin base,2,2.0,0.5,2.0615528128088303
+flm_ea13c7013a3454d3,11,posterior opercular margin,2,6.0,1.0,6.082762530298219
+flm_ea575d50be28e513,1,snout tip,2,0.0,2.0,2.0
+flm_ea575d50be28e513,2,nape dorsal outline,2,9.0,1.0,9.055385138137417
+flm_ea575d50be28e513,3,dorsal fin origin,2,1.5,1.0,1.8027756377319946
+flm_ea575d50be28e513,4,dorsal fin insertion,2,0.5,0.0,0.5
+flm_ea575d50be28e513,5,upper caudal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_ea575d50be28e513,6,caudal peduncle midpoint,2,1.5,0.0,1.5
+flm_ea575d50be28e513,7,lower caudal fin insertion,2,2.5,1.5,2.9154759474226504
+flm_ea575d50be28e513,8,anal fin origin,2,2.0,0.0,2.0
+flm_ea575d50be28e513,9,pelvic fin origin,2,2.0,2.0,2.8284271247461903
+flm_ea575d50be28e513,10,pectoral fin base,2,1.5,3.5,3.8078865529319543
+flm_ea575d50be28e513,11,posterior opercular margin,2,1.0,8.0,8.06225774829855
+flm_eb0db12e106c89a6,1,snout tip,2,0.5,2.0,2.0615528128088303
+flm_eb0db12e106c89a6,2,nape dorsal outline,2,2.0,0.5,2.0615528128088303
+flm_eb0db12e106c89a6,3,dorsal fin origin,2,3.0,0.0,3.0
+flm_eb0db12e106c89a6,4,dorsal fin insertion,2,2.5,1.5,2.9154759474226504
+flm_eb0db12e106c89a6,5,upper caudal fin insertion,2,6.5,2.0,6.800735254367722
+flm_eb0db12e106c89a6,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_eb0db12e106c89a6,7,lower caudal fin insertion,2,7.0,2.0,7.280109889280518
+flm_eb0db12e106c89a6,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_eb0db12e106c89a6,9,pelvic fin origin,2,2.0,0.5,2.0615528128088303
+flm_eb0db12e106c89a6,10,pectoral fin base,2,1.5,0.0,1.5
+flm_eb0db12e106c89a6,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476
+flm_ee03ccd055719486,1,snout tip,2,0.0,2.0,2.0
+flm_ee03ccd055719486,2,nape dorsal outline,2,4.0,1.0,4.123105625617661
+flm_ee03ccd055719486,3,dorsal fin origin,2,5.5,0.5,5.522680508593631
+flm_ee03ccd055719486,4,dorsal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_ee03ccd055719486,5,upper caudal fin insertion,2,6.0,1.0,6.082762530298219
+flm_ee03ccd055719486,6,caudal peduncle midpoint,2,0.0,1.5,1.5
+flm_ee03ccd055719486,7,lower caudal fin insertion,2,4.5,2.0,4.924428900898052
+flm_ee03ccd055719486,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_ee03ccd055719486,9,pelvic fin origin,2,11.0,2.0,11.180339887498949
+flm_ee03ccd055719486,10,pectoral fin base,2,0.5,1.0,1.118033988749895
+flm_ee03ccd055719486,11,posterior opercular margin,2,2.0,1.5,2.5
+flm_ee0a1603a98c4036,1,snout tip,2,0.0,0.5,0.5
+flm_ee0a1603a98c4036,2,nape dorsal outline,2,2.5,0.5,2.5495097567963922
+flm_ee0a1603a98c4036,3,dorsal fin origin,2,0.5,0.5,0.7071067811865476
+flm_ee0a1603a98c4036,4,dorsal fin insertion,2,10.5,0.0,10.5
+flm_ee0a1603a98c4036,5,upper caudal fin insertion,2,5.5,0.5,5.522680508593631
+flm_ee0a1603a98c4036,6,caudal peduncle midpoint,2,1.0,1.5,1.8027756377319946
+flm_ee0a1603a98c4036,7,lower caudal fin insertion,2,2.0,1.0,2.23606797749979
+flm_ee0a1603a98c4036,8,anal fin origin,2,7.5,1.0,7.566372975210778
+flm_ee0a1603a98c4036,9,pelvic fin origin,2,2.5,0.5,2.5495097567963922
+flm_ee0a1603a98c4036,10,pectoral fin base,2,4.0,1.5,4.272001872658765
+flm_ee0a1603a98c4036,11,posterior opercular margin,2,0.5,1.5,1.5811388300841898
+flm_ef0e4abefb3a827d,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_ef0e4abefb3a827d,2,nape dorsal outline,2,0.5,1.5,1.5811388300841898
+flm_ef0e4abefb3a827d,3,dorsal fin origin,2,1.5,0.5,1.5811388300841898
+flm_ef0e4abefb3a827d,4,dorsal fin insertion,2,5.5,0.5,5.522680508593631
+flm_ef0e4abefb3a827d,5,upper caudal fin insertion,2,0.0,0.0,0.0
+flm_ef0e4abefb3a827d,6,caudal peduncle midpoint,2,0.0,0.0,0.0
+flm_ef0e4abefb3a827d,7,lower caudal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_ef0e4abefb3a827d,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_ef0e4abefb3a827d,9,pelvic fin origin,2,2.5,0.5,2.5495097567963922
+flm_ef0e4abefb3a827d,10,pectoral fin base,2,3.5,1.5,3.8078865529319543
+flm_ef0e4abefb3a827d,11,posterior opercular margin,2,0.5,0.0,0.5
+flm_f026c24498cb96aa,1,snout tip,2,1.0,1.0,1.4142135623730951
+flm_f026c24498cb96aa,2,nape dorsal outline,2,1.5,1.0,1.8027756377319946
+flm_f026c24498cb96aa,3,dorsal fin origin,2,0.0,0.5,0.5
+flm_f026c24498cb96aa,4,dorsal fin insertion,2,0.0,0.0,0.0
+flm_f026c24498cb96aa,5,upper caudal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_f026c24498cb96aa,6,caudal peduncle midpoint,2,1.0,0.0,1.0
+flm_f026c24498cb96aa,7,lower caudal fin insertion,2,0.5,1.0,1.118033988749895
+flm_f026c24498cb96aa,8,anal fin origin,2,0.0,1.0,1.0
+flm_f026c24498cb96aa,9,pelvic fin origin,2,16.5,2.0,16.62077013859466
+flm_f026c24498cb96aa,10,pectoral fin base,2,7.5,3.0,8.077747210701755
+flm_f026c24498cb96aa,11,posterior opercular margin,2,1.0,3.0,3.1622776601683795
+flm_f03eed699fb073bb,1,snout tip,2,0.0,0.5,0.5
+flm_f03eed699fb073bb,2,nape dorsal outline,2,0.5,3.5,3.5355339059327378
+flm_f03eed699fb073bb,3,dorsal fin origin,2,2.0,0.5,2.0615528128088303
+flm_f03eed699fb073bb,4,dorsal fin insertion,2,1.0,2.0,2.23606797749979
+flm_f03eed699fb073bb,5,upper caudal fin insertion,2,0.5,3.0,3.0413812651491097
+flm_f03eed699fb073bb,6,caudal peduncle midpoint,2,1.0,1.0,1.4142135623730951
+flm_f03eed699fb073bb,7,lower caudal fin insertion,2,0.5,1.5,1.5811388300841898
+flm_f03eed699fb073bb,8,anal fin origin,2,0.5,2.5,2.5495097567963922
+flm_f03eed699fb073bb,9,pelvic fin origin,2,0.5,5.0,5.024937810560445
+flm_f03eed699fb073bb,10,pectoral fin base,2,1.0,2.5,2.692582403567252
+flm_f03eed699fb073bb,11,posterior opercular margin,2,1.5,0.5,1.5811388300841898
+flm_f1346307be734096,1,snout tip,2,1.0,1.5,1.8027756377319946
+flm_f1346307be734096,2,nape dorsal outline,2,2.0,0.0,2.0
+flm_f1346307be734096,3,dorsal fin origin,2,6.5,1.0,6.576473218982953
+flm_f1346307be734096,4,dorsal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_f1346307be734096,5,upper caudal fin insertion,2,4.0,0.5,4.031128874149275
+flm_f1346307be734096,6,caudal peduncle midpoint,2,0.5,1.0,1.118033988749895
+flm_f1346307be734096,7,lower caudal fin insertion,2,2.5,0.5,2.5495097567963922
+flm_f1346307be734096,8,anal fin origin,2,7.5,0.5,7.516648189186454
+flm_f1346307be734096,9,pelvic fin origin,2,2.0,0.5,2.0615528128088303
+flm_f1346307be734096,10,pectoral fin base,2,0.0,0.0,0.0
+flm_f1346307be734096,11,posterior opercular margin,2,0.5,1.0,1.118033988749895
+flm_f1d51f4bae4bc9a9,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_f1d51f4bae4bc9a9,2,nape dorsal outline,2,1.0,2.0,2.23606797749979
+flm_f1d51f4bae4bc9a9,3,dorsal fin origin,2,2.5,1.5,2.9154759474226504
+flm_f1d51f4bae4bc9a9,4,dorsal fin insertion,2,1.0,0.0,1.0
+flm_f1d51f4bae4bc9a9,5,upper caudal fin insertion,2,0.0,1.5,1.5
+flm_f1d51f4bae4bc9a9,6,caudal peduncle midpoint,2,0.0,0.5,0.5
+flm_f1d51f4bae4bc9a9,7,lower caudal fin insertion,2,2.0,0.5,2.0615528128088303
+flm_f1d51f4bae4bc9a9,8,anal fin origin,2,0.5,0.5,0.7071067811865476
+flm_f1d51f4bae4bc9a9,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_f1d51f4bae4bc9a9,10,pectoral fin base,2,1.0,1.5,1.8027756377319946
+flm_f1d51f4bae4bc9a9,11,posterior opercular margin,2,0.5,2.5,2.5495097567963922
+flm_f4b9fd61e1f208f0,1,snout tip,2,1.0,0.5,1.118033988749895
+flm_f4b9fd61e1f208f0,2,nape dorsal outline,2,0.5,3.0,3.0413812651491097
+flm_f4b9fd61e1f208f0,3,dorsal fin origin,2,1.5,2.0,2.5
+flm_f4b9fd61e1f208f0,4,dorsal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_f4b9fd61e1f208f0,5,upper caudal fin insertion,2,1.0,1.0,1.4142135623730951
+flm_f4b9fd61e1f208f0,6,caudal peduncle midpoint,2,1.0,1.5,1.8027756377319946
+flm_f4b9fd61e1f208f0,7,lower caudal fin insertion,2,1.5,1.0,1.8027756377319946
+flm_f4b9fd61e1f208f0,8,anal fin origin,2,2.0,0.5,2.0615528128088303
+flm_f4b9fd61e1f208f0,9,pelvic fin origin,2,1.0,1.0,1.4142135623730951
+flm_f4b9fd61e1f208f0,10,pectoral fin base,2,0.5,3.0,3.0413812651491097
+flm_f4b9fd61e1f208f0,11,posterior opercular margin,2,5.5,0.5,5.522680508593631
+flm_f67cd1d017e7cf24,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_f67cd1d017e7cf24,2,nape dorsal outline,2,0.5,1.0,1.118033988749895
+flm_f67cd1d017e7cf24,3,dorsal fin origin,2,0.5,1.0,1.118033988749895
+flm_f67cd1d017e7cf24,4,dorsal fin insertion,2,1.0,1.5,1.8027756377319946
+flm_f67cd1d017e7cf24,5,upper caudal fin insertion,2,0.5,3.5,3.5355339059327378
+flm_f67cd1d017e7cf24,6,caudal peduncle midpoint,2,0.5,0.5,0.7071067811865476
+flm_f67cd1d017e7cf24,7,lower caudal fin insertion,2,1.5,0.5,1.5811388300841898
+flm_f67cd1d017e7cf24,8,anal fin origin,2,1.0,0.5,1.118033988749895
+flm_f67cd1d017e7cf24,9,pelvic fin origin,2,1.5,2.5,2.9154759474226504
+flm_f67cd1d017e7cf24,10,pectoral fin base,2,1.5,1.0,1.8027756377319946
+flm_f67cd1d017e7cf24,11,posterior opercular margin,2,5.5,1.0,5.5901699437494745
+flm_f844e757ac43c22f,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_f844e757ac43c22f,2,nape dorsal outline,2,1.5,1.5,2.1213203435596424
+flm_f844e757ac43c22f,3,dorsal fin origin,2,1.5,4.0,4.272001872658765
+flm_f844e757ac43c22f,4,dorsal fin insertion,2,1.0,5.5,5.5901699437494745
+flm_f844e757ac43c22f,5,upper caudal fin insertion,2,0.0,5.0,5.0
+flm_f844e757ac43c22f,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_f844e757ac43c22f,7,lower caudal fin insertion,2,2.0,3.0,3.605551275463989
+flm_f844e757ac43c22f,8,anal fin origin,2,1.0,7.5,7.566372975210778
+flm_f844e757ac43c22f,9,pelvic fin origin,2,1.5,2.0,2.5
+flm_f844e757ac43c22f,10,pectoral fin base,2,1.5,2.5,2.9154759474226504
+flm_f844e757ac43c22f,11,posterior opercular margin,2,2.5,0.5,2.5495097567963922
+flm_f8bd3fc803a73416,1,snout tip,2,0.5,1.5,1.5811388300841898
+flm_f8bd3fc803a73416,2,nape dorsal outline,2,0.5,0.5,0.7071067811865476
+flm_f8bd3fc803a73416,3,dorsal fin origin,2,0.0,1.5,1.5
+flm_f8bd3fc803a73416,4,dorsal fin insertion,2,0.5,0.0,0.5
+flm_f8bd3fc803a73416,5,upper caudal fin insertion,2,1.5,2.0,2.5
+flm_f8bd3fc803a73416,6,caudal peduncle midpoint,2,1.0,0.5,1.118033988749895
+flm_f8bd3fc803a73416,7,lower caudal fin insertion,2,0.5,0.5,0.7071067811865476
+flm_f8bd3fc803a73416,8,anal fin origin,2,0.5,1.5,1.5811388300841898
+flm_f8bd3fc803a73416,9,pelvic fin origin,2,0.5,1.0,1.118033988749895
+flm_f8bd3fc803a73416,10,pectoral fin base,2,0.5,1.5,1.5811388300841898
+flm_f8bd3fc803a73416,11,posterior opercular margin,2,1.0,0.5,1.118033988749895
+flm_fc05c2838cc7a5fd,1,snout tip,2,0.5,1.0,1.118033988749895
+flm_fc05c2838cc7a5fd,2,nape dorsal outline,2,5.5,2.5,6.041522986797286
+flm_fc05c2838cc7a5fd,3,dorsal fin origin,2,0.0,0.0,0.0
+flm_fc05c2838cc7a5fd,4,dorsal fin insertion,2,2.0,0.0,2.0
+flm_fc05c2838cc7a5fd,5,upper caudal fin insertion,2,7.5,0.0,7.5
+flm_fc05c2838cc7a5fd,6,caudal peduncle midpoint,2,2.5,0.0,2.5
+flm_fc05c2838cc7a5fd,7,lower caudal fin insertion,2,4.5,0.5,4.527692569068709
+flm_fc05c2838cc7a5fd,8,anal fin origin,2,2.5,0.5,2.5495097567963922
+flm_fc05c2838cc7a5fd,9,pelvic fin origin,2,1.0,0.5,1.118033988749895
+flm_fc05c2838cc7a5fd,10,pectoral fin base,2,0.0,0.5,0.5
+flm_fc05c2838cc7a5fd,11,posterior opercular margin,2,0.5,0.5,0.7071067811865476

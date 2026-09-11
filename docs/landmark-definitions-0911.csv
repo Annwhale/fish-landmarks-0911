@@ -1,0 +1,12 @@
+canonical_id,operational_name,legacy_alias,interpretation_status
+1,snout tip,snout_tip,visual review of 27 images across nine taxon candidates
+2,dorsal head-body junction,nape_dorsal_outline,visible contour anchor; exact source rule pending
+3,dorsal-fin origin,dorsal_fin_origin,anterior visible fin attachment
+4,dorsal-fin insertion,dorsal_fin_insertion,posterior visible fin attachment
+5,dorsal caudal-fin insertion,upper_caudal_fin_insertion,visible dorsal tail-base junction
+6,central caudal-base anchor,posterior_caudal_peduncle_midpoint,not an arithmetic midpoint or caudal-fin tip
+7,ventral caudal-fin insertion,lower_caudal_fin_insertion,visible ventral tail-base junction
+8,anal-fin origin,anal_fin_origin,anterior visible fin attachment
+9,pelvic-fin origin,pelvic_fin_origin,anterior visible fin attachment
+10,ventral head-opercular boundary anchor,pectoral_fin_base,legacy alias does not establish pectoral-fin attachment
+11,posterior opercular-margin anchor,posterior_opercular_margin,visible boundary; no internal bony identity asserted

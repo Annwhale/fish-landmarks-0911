@@ -1,0 +1,28 @@
+name: fishlandmark-scidata
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - pillow=12.0.0
+  - opencv=4.13.0
+  - pyarrow=20.0.0
+  - pytorch=2.4.1
+  - torchvision=0.19.1
+  - pytorch-cuda=12.4
+  - pyyaml
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pytest
+  - pip
+  - pip:
+      - ultralytics==8.4.48
+      - transformers==4.57.3
+      - peft==0.20.0
+      - accelerate==1.14.0
+      - decord==0.6.0
+      - lmdb==1.7.5

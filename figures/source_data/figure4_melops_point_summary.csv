@@ -1,0 +1,9 @@
+column,project_role_id,melops_source_label,point,tier,mapping_status,target_rule,evaluated_images,valid_point_pairs,excluded_source_values,nme_normalizer,nme_mean,nme_ci95_low,nme_ci95_high
+kp1_candidate_nme,1,snout,1 snout,anchor,candidate,direct,505,505,none,Melops snout-to-caudal-midpoint span,0.04932562324628954,0.04121002453603456,0.05881341140848626
+kp5_candidate_nme,5,caudal_top,5 caudal top,anchor,candidate,direct,505,505,none,Melops snout-to-caudal-midpoint span,0.1700645657639931,0.16483429243514577,0.17611225241073286
+kp7_candidate_nme,7,caudal_bottom,7 caudal bottom,anchor,candidate,direct,505,505,none,Melops snout-to-caudal-midpoint span,0.16375253830773717,0.15820377259939225,0.17002373751967
+kp8_candidate_nme,8,anal_fin,8 anal-fin region,regional,candidate,direct,505,505,none,Melops snout-to-caudal-midpoint span,0.12840329257028135,0.12455952504400504,0.13206963125449442
+kp9_candidate_nme,9,pelvic,9 pelvic region,regional,candidate,direct,505,505,none,Melops snout-to-caudal-midpoint span,0.09289754324274854,0.08808632670096625,0.0982426665632198
+kp11_candidate_nme,11,medium_opercular,11 opercular region,regional,candidate,direct,503,503,two images lack an eligible source value,Melops snout-to-caudal-midpoint span,0.05354173212702944,0.04989254056649769,0.057872996698087896
+kp6_candidate_nme,6,"midpoint(caudal_top, caudal_bottom)",6 caudal midpoint,derived,derived candidate,midpoint,505,505,none,Melops snout-to-caudal-midpoint span,0.20638646605290908,0.200842321519008,0.21226343728010041
+kp10_candidate_nme,10,"midpoint(pectoral_top, pectoral_bottom)",10 pectoral midpoint,derived,derived candidate,midpoint,505,505,none,Melops snout-to-caudal-midpoint span,0.16509492396757786,0.16139622131397585,0.1690056391410827

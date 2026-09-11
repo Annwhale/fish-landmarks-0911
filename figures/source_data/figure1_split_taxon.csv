@@ -1,0 +1,30 @@
+taxon_candidate,split_display,count
+Carassius auratus,test,36
+Carassius auratus,train,167
+Carassius auratus,validation,36
+Coilia nasus,review holdout,6
+Coilia nasus,test,191
+Coilia nasus,train,894
+Coilia nasus,validation,191
+Ctenopharyngodon idella,test,16
+Ctenopharyngodon idella,train,73
+Ctenopharyngodon idella,validation,16
+Culter alburnus,test,32
+Culter alburnus,train,152
+Culter alburnus,validation,32
+Hypophthalmichthys molitrix,test,33
+Hypophthalmichthys molitrix,train,160
+Hypophthalmichthys molitrix,validation,33
+Hypophthalmichthys nobilis,test,26
+Hypophthalmichthys nobilis,train,121
+Hypophthalmichthys nobilis,validation,26
+Megalobrama amblycephala,test,15
+Megalobrama amblycephala,train,71
+Megalobrama amblycephala,validation,15
+Mylopharyngodon piceus,test,18
+Mylopharyngodon piceus,train,83
+Mylopharyngodon piceus,validation,18
+Siniperca chuatsi,review holdout,3
+Siniperca chuatsi,test,15
+Siniperca chuatsi,train,70
+Siniperca chuatsi,validation,15

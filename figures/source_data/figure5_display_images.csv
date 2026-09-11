@@ -1,0 +1,7 @@
+benchmark_id,source_groups,taxon_candidate,origin_label,source_display,mean_nme,selection_rule
+flm_0210f67ad1497c7f,野生鲢鱼,Hypophthalmichthys molitrix,wild,W H. molitrix,0.08244914084359525,prespecified six-taxon display spanning the observed zero-shot error range
+flm_48e75883e252235a,鳙鱼,Hypophthalmichthys nobilis,farmed,F H. nobilis,0.08448214390026955,prespecified six-taxon display spanning the observed zero-shot error range
+flm_009d9c9b591675ff,野生刀鲚,Coilia nasus,wild,W C. nasus,0.13839689145918643,prespecified six-taxon display spanning the observed zero-shot error range
+flm_08e88d7fcddf132c,草鱼,Ctenopharyngodon idella,farmed,F C. idella,0.19293483083488555,prespecified six-taxon display spanning the observed zero-shot error range
+flm_0e1305877a8ced63,鳜鱼,Siniperca chuatsi,farmed,F S. chuatsi,0.2245295547629025,prespecified six-taxon display spanning the observed zero-shot error range
+flm_3e0cf2609cc04388,团头鲂,Megalobrama amblycephala,farmed,F M. amblycephala,0.26041678504225246,prespecified six-taxon display spanning the observed zero-shot error range

@@ -1,0 +1,6 @@
+geometry_key,geometry_label,first_role,second_role,benchmark_id,source_groups,source_display,taxon_candidate,origin_label,representative_original_image,width,height
+axial,axial span 1–6,1,6,flm_9eda61687e011cb8,鲫鱼,F C. auratus,Carassius auratus,farmed,鲫鱼/jiyu (95)_0.jpg,600,800
+dorsal,dorsal base 3–4,3,4,flm_2f11bc4f95af10c4,鳜鱼,F S. chuatsi,Siniperca chuatsi,farmed,鳜鱼/guiyu (8)_0.jpg,800,600
+caudal,caudal depth 5–7,5,7,flm_d69a32d9eb39fe81,野生刀鲚,W C. nasus,Coilia nasus,wild,野生刀鲚/101861_0.jpg,800,600
+head,head chord 2–10,2,10,flm_671ac29dd2f454dc,团头鲂,F M. amblycephala,Megalobrama amblycephala,farmed,团头鲂/tuantoufang (32)_0.jpg,800,450
+ventral,ventral base 8–9,8,9,flm_120c17d1d7eb7a69,草鱼,F C. idella,Ctenopharyngodon idella,farmed,草鱼/caoyu (51)_0.jpg,800,450
