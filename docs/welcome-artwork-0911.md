@@ -1,9 +1,11 @@
-# 首页欢迎图
+# Welcome banner
 
-`assets/welcome-0911.gif`仅为首页装饰，不是科学图件、模型预测或研究数据。
+User-supplied animation with an imagegen speech bubble, assembled using ImageMagick.
+960 × 320 pixels · 52 frames · 1.8 seconds.
 
-用户提供原始狗狗礼帽GIF。本次使用内置imagegen扩展右侧英文气泡，再用ImageMagick合成原动画；52帧、总时长1.8秒，画布960×320。原动画未被替换为生成的动物动作。项目MIT许可证仅适用于项目代码，不据此主张原表情图的版权或再许可权。
+Design: a peach background, cream speech bubble and large dark text. Original animation retained.
+Artwork rights remain with their respective owners; the code's MIT license does not cover this asset.
 
-生成提示要求：3:1横幅，保持原狗狗礼帽表情风格，向右扩展，左侧保留原动画位置；右侧一个奶油色、深棕细描边的气泡，深色大字且留足内边距，不遮挡，不添加其他对象或文字。英文原文：
+Text:
 
 > Welcome, and thank you for reviewing my data and code. Have a wonderful day!

@@ -31,9 +31,9 @@ def attach(package):
     for name, source in links.items():
         target = ROOT / name
         if not source.is_dir():
-            raise SystemExit(f'缺少输入：{source}')
+            raise SystemExit(f'Missing input: {source}')
         if (target.exists() or target.is_symlink()) and target.resolve() != source:
-            raise SystemExit(f'保留已有路径，未覆盖：{target}')
+            raise SystemExit(f'Existing path preserved: {target}')
     for name, source in links.items():
         target = ROOT / name
         target.parent.mkdir(parents=True, exist_ok=True)
@@ -43,13 +43,13 @@ def attach(package):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='鱼类形态数据代码入口')
+    parser = argparse.ArgumentParser(description='Fish landmark tools')
     parser.add_argument('command', choices=['attach', *COMMANDS])
     parser.add_argument('arguments', nargs=argparse.REMAINDER)
     args = parser.parse_args()
     if args.command == 'attach':
         if len(args.arguments) != 1:
-            parser.error('attach 需要解压后的完整作者包目录')
+            parser.error('attach requires the extracted submission package directory')
         attach(Path(args.arguments[0]))
         return
     env = os.environ.copy()
