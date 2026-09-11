@@ -1,0 +1,12 @@
+canonical_id,operational_name,legacy_alias,interpretation_status,placement_note
+1,snout tip,snout_tip,author_confirmed_2026-09-11,Anterior tip of the snout outline; not the eye centre
+2,dorsal head-body junction,nape_dorsal_outline,author_confirmed_2026-09-11,Dorsal external contour where the posterior head meets the trunk
+3,dorsal-fin origin,dorsal_fin_origin,author_confirmed_2026-09-11,Anterior end of the dorsal-fin attachment; not the fin-ray tip
+4,dorsal-fin insertion,dorsal_fin_insertion,author_confirmed_2026-09-11,Posterior end of the dorsal-fin attachment
+5,dorsal caudal-fin insertion,upper_caudal_fin_insertion,author_confirmed_2026-09-11,Upper junction between the caudal-fin base and caudal peduncle
+6,central caudal-base anchor,posterior_caudal_peduncle_midpoint,author_confirmed_2026-09-11,Central tail-base reference point; not an arithmetic midpoint or caudal-fin tip
+7,ventral caudal-fin insertion,lower_caudal_fin_insertion,author_confirmed_2026-09-11,Lower junction between the caudal-fin base and caudal peduncle
+8,anal-fin origin,anal_fin_origin,author_confirmed_2026-09-11,Anterior end of the anal-fin attachment
+9,pelvic-fin origin,pelvic_fin_origin,author_confirmed_2026-09-11,Anterior end of the pelvic-fin attachment
+10,ventral head-opercular boundary anchor,pectoral_fin_base,author_confirmed_2026-09-11,Ventral head-opercular boundary reference point; legacy alias does not denote a confirmed pectoral-fin attachment
+11,posterior opercular-margin anchor,posterior_opercular_margin,author_confirmed_2026-09-11,Reference point on the visible posterior opercular edge; not defined as its top midpoint or bottom

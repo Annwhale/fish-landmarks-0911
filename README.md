@@ -48,7 +48,7 @@ python run-0911.py evaluate-heatmap --help
 - `scripts` — processing and evaluation
 - `figures` — plotting code and source tables
 - `config` — experiment settings
-- `docs` — [landmark definitions](docs/landmark-definitions-0911.csv) and data dictionary
+- `docs` — [confirmed landmark definitions](docs/landmark-definitions-confirmed-0911.csv) and data dictionary
 
 ## License
 
