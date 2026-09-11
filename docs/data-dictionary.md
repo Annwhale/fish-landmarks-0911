@@ -310,10 +310,23 @@ table.
 
 ## Units, semantics and release status
 
+The 11 September 2026 operational interpretation is supplied separately in
+`landmark-definitions-0911.csv`, joined by `canonical_id`. Frozen provisional
+names are retained as historical aliases, not silently relabelled. In particular,
+role 10 is a ventral head/opercular-boundary anchor and must not be treated as a
+verified pectoral-fin attachment. Role 6 is a central caudal-base anchor, not an
+arithmetic midpoint. No coordinates or frozen results changed in this update.
+
+The team reports collection in the middle/lower Yangtze region. All 2,699 source
+JPEGs and 2,564 released originals were checked and contained no EXIF tags;
+capture date and equipment cannot be recovered from those files. This updates
+the collection-level provenance only, not specimen-level location or batch.
+
 All image-coordinate fields are pixels or normalized crop fractions. No
 physical length is available because all current scale value/unit fields are
 blank. Provisional point names, orientation convention, scale-side convention,
-collection/ethics fields, physical calibration, institutional attribution and
-final repository metadata remain pending source-team or author confirmation.
+specimen-level collection/ethics fields and physical calibration are not
+established by this release. Creator affiliations and repository metadata
+are recorded in Zenodo record 22704999, version 1.0.1.
 The team's generation and public-redistribution authority for the included
 primary images and point annotations has been confirmed.

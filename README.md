@@ -6,6 +6,10 @@ Tools for fish landmark curation, evaluation and visualization.
 
 2,564 images · 11 landmarks · 9 taxon groups
 
+## Data
+
+[Download data](https://github.com/Annwhale/fish-landmarks-0911/releases/download/v1.0.1/FishLandmarks-Data-0911.zip) · CC BY 4.0
+
 ## Setup
 
 Python 3.11 with PyTorch.
